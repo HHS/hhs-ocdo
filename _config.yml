@@ -84,9 +84,9 @@ primary_navigation:
   - name: About
     children:
       - name: About HHS Protect
-        url: "#main-content"
+        url: /resources/
       - name: Navigation link
-        url: "#main-content"
+        url: /document-with-sidenav/
       - name: Navigation link
         url: "#main-content"
 
