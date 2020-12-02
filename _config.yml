@@ -75,15 +75,15 @@ ga:
 primary_navigation:
   - name: Home
     url: /
+  - name: Resources
+    url: /resources/
+  - name: Operations
+    url: /operations/
   - name: Blog
     url: /blog/
-  - name: Records Management
-    url: /document/
-  - name: Paperwork Reduction Act
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: About
     children:
-      - name: Navigation link
+      - name: About HHS Protect
         url: "#main-content"
       - name: Navigation link
         url: "#main-content"
