@@ -1,5 +1,5 @@
 ---
-title: Document
+title: resources
 layout: page
 sidenav: false
 ---
