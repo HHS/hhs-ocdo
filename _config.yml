@@ -76,7 +76,7 @@ primary_navigation:
   - name: Home
     url: /
   - name: Resources
-    url: /resources/
+    url: /document/
   - name: Operations
     url: /operations/
   - name: Blog
