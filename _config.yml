@@ -76,9 +76,17 @@ primary_navigation:
   - name: Home
     url: /
   - name: Resources
-    url: /resources/
+    children:
+      - name: Data Visualizations
+        url: /visualizations/
+      - name: Open Data
+        url: /open-data/
   - name: Operations
-    url: /document-with-sidenav/
+    children:
+      - name: Governance
+        url: /governance/
+      - name: Data Initiatives
+        url: /data-initiatives/
   - name: Blog
     url: /blog/
   - name: About
