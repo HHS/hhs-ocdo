@@ -76,7 +76,7 @@ primary_navigation:
   - name: Home
     url: /
   - name: Resources
-    url: /document/
+    url: /resources/
   - name: Operations
     url: /document-with-sidenav/
   - name: Blog
