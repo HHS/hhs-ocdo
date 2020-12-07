@@ -1,10 +1,10 @@
 ---
-title: Document
+title: Governance
 layout: page
 sidenav: false
 ---
 
-# Section heading (h1)
+# Federal Data Strategy (h1)
 
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 

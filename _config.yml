@@ -75,18 +75,26 @@ ga:
 primary_navigation:
   - name: Home
     url: /
+  - name: Resources
+    children:
+      - name: Data Visualizations
+        url: /visualizations/
+      - name: Open Data
+        url: /open-data/
+  - name: Operations
+    children:
+      - name: Governance
+        url: /governance/
+      - name: Data Initiatives
+        url: /data-initiatives/
   - name: Blog
     url: /blog/
-  - name: Records Management
-    url: /document/
-  - name: Paperwork Reduction Act
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: About
     children:
+      - name: About HHS Protect
+        url: /resources/
       - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+        url: /document-with-sidenav/
       - name: Navigation link
         url: "#main-content"
 
