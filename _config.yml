@@ -99,10 +99,10 @@ primary_navigation:
         url: "#main-content"
 
 secondary_navigation:
-  - name: Secondary link
-    url: "#main-content"
-  - name: Another secondary link
-    url: "#main-content"
+  - name: COVID Data Hub
+    url: "https://www.hhs.gov/coronavirus/index.html"
+  - name: Healthdata.gov
+    url: "https://healthdata.gov/"
 
 # Search.gov configuration
 #
