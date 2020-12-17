@@ -4,24 +4,20 @@ layout: page
 sidenav: false
 ---
 
-# Federal Data Strategy (h1)
+# Governance
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+OCDO Data Governance is focused on how decisions are made about data at the Department level and across the HHS divisions, and how people and processes are expected to act in relation to its data assets, and ultimately creating a culture of shared responsibility for the value of its data assets.  
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+## Policies
 
-## Section heading (h2)
+HHS OCDO has a leading role in ensuring HHS complies with Department and Federal policies and mandated objectives. [HHS OCIO Policies](https://www.hhs.gov/web/governance/digital-strategy/it-policy-archive/index.html) are the primary tool for achieving this task and will be developed and reviewed through the Data Governance Board. 
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+A principal outside driver for policies is the [President’s Management Agenda](https://www.whitehouse.gov/omb/management/pma/) goal of [Leveraging Data as a Strategic Asset](https://www.performance.gov/CAP/leveragingdata/), and the [Federal Data Strategy](https://strategy.data.gov/) to meet the changing role of data and needs of democracy. The strategy seeks to better enable data to deliver on mission, serve the public, and steward resources while respecting privacy and confidential. 
 
-### Subsection heading (h3)
+## Standards
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
+Standards for enterprise adoption are endorsed by the Data Governance Board.  These standards are intended to optimize data discovery and sharing, including an alignment to the Federal Data Strategy’s metadata standard.
 
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
+## Oversight
 
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
+The HHS Data Governance Board (DGB) was formed to serve as a collaborative body of Department representatives to coordinate or inspire improvements to data management capabilities. The CDO Perryn Ashmore is the chair of the DGB, with Deputy CDO Kevin Duvall presiding over monthly meetings. Members represent each operating division.
