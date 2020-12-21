@@ -1,6 +1,6 @@
 ---
 title: Visualizations
-layout: base
+layout: page
 sidenav: false
 ---
 
