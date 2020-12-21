@@ -1,6 +1,6 @@
 ---
 title: Data Initiatives
-layout: wide
+layout: page
 sidenav: false
 ---
 
