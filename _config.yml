@@ -90,13 +90,7 @@ primary_navigation:
   - name: Blog
     url: /blog/
   - name: About
-    children:
-      - name: About HHS Protect
-        url: /resources/
-      - name: Navigation link
-        url: /document-with-sidenav/
-      - name: Navigation link
-        url: "#main-content"
+    url: /about/
 
 secondary_navigation:
   - name: COVID Data Hub
