@@ -1,7 +1,7 @@
 ---
 title: Data Initiatives
-layout: wide
-sidenav: true
+layout: base
+sidenav: false
 ---
 
 # OCDO Initiatives
