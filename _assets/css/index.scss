@@ -1,20 +1,19 @@
 // Import the US Web Design System SASS.
-
+$theme-show-notifications: false;
 @import "uswds";
 
-// Add your SASS/CSS here
+// CSS Customizations
 
-.usa-hero-new {
-    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-    font-size: 1.06rem;
-    line-height: 1.5;
-    padding-bottom: 2rem;
-    padding-top: 2rem;
+// Hero with banner image
+.ocdo-hero {
     background-image: url('https://cdn.pixabay.com/photo/2017/06/25/10/09/board-2440249_960_720.jpg');
-    background-position: center;
-    background-size: cover;
-    color: white;
 }
+
+//Div containing website title
+.ocdo-logo {
+    width: 200%;
+}
+
 
 // default mode hide banner
 .usa-banner__content {
