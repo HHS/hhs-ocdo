@@ -15,7 +15,7 @@ where we provide an easy way to manage your navigation system
         {% for nav_item in include.primary_navigation %}
         {% unless nav_item.children %}
         {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
-        {% assign linkdir = nav_item.url |  replace: "/", ""  | lstrip %}
+        {% assign linkdir = nav_item.url |  remove_first: '/' | split: '/' | first | lstrip %}
         <li class="usa-nav__primary-item">
           <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
@@ -37,13 +37,25 @@ where we provide an easy way to manage your navigation system
         {% endunless %}
         {% endfor %}
       </ul>
-      <div class="usa-nav__secondary">
+      <!-- Secondary navigation using values from config -->
+      <!-- <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
             <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
           </li>
           {% endfor %}
+        </ul>
+        {% include searchgov/form.html searchgov=site.searchgov %}
+      </div> -->
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item">
+            <a href="https://www.hhs.gov/coronavirus/index.html">COVID Data Hub</a>
+          </li>
+          <li class="usa-nav__secondary-item">
+            <a href="https://healthdata.gov">HealthData.gov</a>
+          </li>
         </ul>
         {% include searchgov/form.html searchgov=site.searchgov %}
       </div>
