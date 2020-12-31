@@ -1,19 +1,71 @@
 // Import the US Web Design System SASS.
-$theme-show-notifications: false;
+$theme-show-notifications: false; // Hides updates from USWDS team
+$theme-show-compile-warnings: false; // Hides sass warnings from USDWS (might be bad)
+
 @import "uswds";
 
 // CSS Customizations
 
-// Hero with banner image
+// Hero image
 .ocdo-hero {
-    background-image: url('https://cdn.pixabay.com/photo/2017/06/25/10/09/board-2440249_960_720.jpg');
+  background-image: asset_url("hero-image.jpg");
 }
 
-//Div containing website title
+// Hero callout customizations
+@media all and (min-width: 40em) {
+  .ocdo-hero-callout {
+    max-width: 28rem; // overrides USWDS maximum
+  }
+}
+
+// Website title customizations
 .ocdo-logo {
     width: 200%;
 }
 
+.usa-sidenav {
+  @include u-border-bottom("base-light");
+
+  a {
+    @include u-padding-y(2);
+    @include u-text("bold");
+
+    &.usa-current {
+      @include u-text("ink");
+
+      &:after {
+        @include u-bg("primary");
+      }
+    }
+
+    &:hover {
+      background-color: transparent;
+      @include u-text("primary");
+    }
+  }
+}
+
+.usa-sidenav__item:first-child,
+.usa-sidenav__item:only-child {
+  @include u-border-top(0);
+}
+
+.usa-sidenav__item {
+  @include u-border-top("base-light");
+}
+
+.usa-sidenav__sublist {
+  @include u-padding-bottom(1);
+
+  a {
+    @include u-padding-y(1);
+    @include u-text("normal");
+  }
+
+  .usa-sidenav__item {
+    @include u-border-top(0);
+  }
+}
 
 // default mode hide banner
 .usa-banner__content {
