@@ -1,7 +1,10 @@
 ---
 title: Data Initiatives
 layout: page
-sidenav: false
+sidenav: true
+anchors:
+  - name: Data Maturity
+  - name: Data Skills
 ---
 
 # OCDO Initiatives
