@@ -1,12 +1,16 @@
 ---
 title: Open Data
 layout: page
-sidenav: false
+sidenav: true
+anchors:
+  - name: Open Data Inventories and APIs
+  - name: Data Repositories and Search Tools
 ---
+# Open Data
 
-HHS publishes datasets as part of its Open Data program. The primary resource for public access is healthdata.gov, but additional sites are published for specialized topics. 
+HHS publishes datasets as part of its Open Data program. The primary resource for public access is healthdata.gov, but additional sites are published for specialized topics.
 
-# Open Data Inventories and APIs
+## Open Data Inventories and APIs
 
 [Healthdata.gov](https://healthdata.gov/) is dedicated to making data discoverable and making valuable government data available to the public in the hopes of better health outcomes for all.
 [HHS Product Public Data Hub](https://protect-public.hhs.gov/) provides high-quality, accessible, and timely information for entrepreneurs, researchers, and policy makers to help drive insights and better health outcomes for all.
@@ -28,4 +32,3 @@ HHS publishes datasets as part of its Open Data program. The primary resource fo
 - [DASH](https://dash.nichd.nih.gov/) is a centralized resource for researchers to store de-identified data and to access data and associated biospecimens from NICHD supported studies for use in secondary research. The intended audience is researchers.
 - [CDC WONDER](https://wonder.cdc.gov/) (Wide-ranging Online Data for Epidemiologic Research) is an online query system that provides access to a wide range of CDC resources and data systems. The intended audience is public health practitioners and decision makers.
 - The [HRSA warehouse](https://data.hrsa.gov/tools/data-explorer) holds maps, dashboards, and query tools that outline HRSA's programs. The website provides access to data for HRSA grantees, clinicians, and health researchers and practitioners.
-
