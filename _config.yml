@@ -21,7 +21,7 @@
 title: HHS Office of the Chief Data Officer
 email: CDO@hhs.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  HHS Office of the Chief Data Officer's (OCDO) mission is to responsibly and ethically enable data-driven health and human services to maximize the nation’s return on investment in its data and benefit the American public. 
+  HHS Office of the Chief Data Officer's (OCDO) mission is to responsibly and ethically enable data-driven health and human services to maximize the nation’s return on investment in its data and benefit the American public.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -77,32 +77,26 @@ primary_navigation:
     url: /
   - name: Resources
     children:
-      - name: Data Visualizations
-        url: /visualizations/
       - name: Open Data
-        url: /open-data/
+        url: /resources/open-data/
+      - name: Data Visualizations
+        url: /resources/visualizations/
   - name: Operations
     children:
       - name: Governance
-        url: /governance/
+        url: /operations/governance/
       - name: Data Initiatives
-        url: /data-initiatives/
+        url: /operations/data-initiatives/
   - name: Blog
     url: /blog/
   - name: About
-    children:
-      - name: About HHS Protect
-        url: /resources/
-      - name: Navigation link
-        url: /document-with-sidenav/
-      - name: Navigation link
-        url: "#main-content"
+    url: /about/
 
-secondary_navigation:
-  - name: COVID Data Hub
-    url: "https://www.hhs.gov/coronavirus/index.html"
-  - name: Healthdata.gov
-    url: "https://healthdata.gov/"
+# secondary_navigation:
+#   - name: COVID Data Hub
+#     url: "https://www.hhs.gov/coronavirus/index.html"
+#   - name: Healthdata.gov
+#     url: "https://healthdata.gov/"
 
 # Search.gov configuration
 #
