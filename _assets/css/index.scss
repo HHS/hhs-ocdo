@@ -23,6 +23,12 @@ $theme-show-compile-warnings: false; // Hides sass warnings from USDWS (might be
     width: 200%;
 }
 
+// Highlight icons
+.ocdo-highlight-icon {
+  width: 124px;
+}
+
+// Side navigation styling
 .usa-sidenav {
   @include u-border-bottom("base-light");
 
