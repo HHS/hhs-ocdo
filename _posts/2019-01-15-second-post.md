@@ -1,5 +1,5 @@
 ---
-title: Second page
+title: COVID-19 is Complex, as is COVID-19 Open Data
 layout: post
 date: December 7, 2020
 author: Kristen Honey, Amy Gleason, and Kevin Duvall
