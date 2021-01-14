@@ -18,9 +18,29 @@ $theme-show-compile-warnings: false; // Hides sass warnings from USDWS (might be
   }
 }
 
+// Secondary navigation customizations
+.ocdo-secondary-link {
+  color: #3d4551;
+}
+
 // Website title customizations
 .ocdo-logo {
     width: 200%;
+}
+
+// Footer customizations
+.ocdo-footer {
+  margin-top: 20px;
+}
+
+a.ocdo-footer-link {
+  font-weight: 600;
+  color: #185394;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 // Highlight icons
