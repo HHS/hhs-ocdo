@@ -4,13 +4,8 @@ layout: post
 date: December 7, 2020
 author: Kristen Honey, Amy Gleason, and Kevin Duvall
 
-excerpt: This is an excerpt for second page
+excerpt: Today, the U.S. Department of Health and Human Services (HHS) published COVID-19 hospital data at the facility level for each week, going back to August 1st 2020. This information was previously aggregated by state. This new data and its data quality are paramount to the U.S. pandemic response. COVID-19 models, analyses, and predictive analytics can only be as good as the data they ingest. By sharing these new hospital COVID-19 capacity data at the facility-level with the public, the opportunity exists to improve data quality.
 ---
-
-Due to demand, please access the data files here:
-- Download: https://healthdata.gov/sites/default/files/reported_hospital_capacity_ad...
-- Data Dictionary: https://healthdata.gov/covid-19-reported-patient-impact-and-hospital-cap...
-
 Today, the [U.S. Department of Health and Human Services (HHS) published COVID-19 hospital data](https://www.hhs.gov/about/news/2020/12/07/hhs-publishes-covid-19-hospital-facility-level-data.html) at the facility level for each week, going back to August 1st 2020. This information was previously aggregated by state. This new data and its data quality are paramount to the U.S. pandemic response. COVID-19 models, analyses, and predictive analytics can only be as good as the data they ingest. By sharing these new hospital COVID-19 capacity data at the [facility-level](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-facility) with the public, the opportunity exists to improve data quality.
 
 This data is tremendously complex and is the result of substantial ongoing efforts by hospital, state, and Federal personnel who collaborate to meet daily data reporting requirements. This ongoing collaboration has [steadily improved data quality and reporting consistency](https://healthdata.gov/covid-19-hospital-reporting-hospital-reporting-trend-dashboard) in recent weeks, even as the content of hospital capacity data has become more complex.
@@ -31,4 +26,4 @@ The data reporting is one part of the whole-of-government response and is to ens
 
 Together, we can combat COVID-19.
 
-Disclaimer: Please visit the [CDC’s website on COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for the most up-to-date information and COVID-19 guidance.
+*Disclaimer:* Please visit the [CDC’s website on COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for the most up-to-date information and COVID-19 guidance.
