@@ -1,7 +1,14 @@
 ---
 title: About OCDO
-layout: page
+layout: about
 sidenav: false
 ---
 
-About page is here.
+# About Us
+
+Perryn Ashmore serves in a dual role as Chief Data Officer and Chief Information
+Officer for HHS.
+
+Kevin Duvall is Deputy Chief Data Officer.
+
+## Core Values

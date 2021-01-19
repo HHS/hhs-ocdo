@@ -19,18 +19,18 @@ where we provide an easy way to manage your navigation system
         {% assign droplink = nav_item.name | downcase | lstrip %}
         <li class="usa-nav__primary-item">
           <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
-            href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name | escape }}</span></a>
+            href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name }}</span></a>
         </li>
         {% else %}
         {% assign nav_id = 'primary-nav-' | append: forloop.index %}
         {% assign droplink = nav_item.name | downcase | lstrip %}
         <li class="usa-nav__primary-item">
           <button class="usa-accordion__button usa-nav__link{% if basedir == droplink %} usa-current{% endif %}" aria-expanded="false"
-            aria-controls="{{ nav_id }}"><span>{{ nav_item.name | escape }}</span></button>
+            aria-controls="{{ nav_id }}"><span>{{ nav_item.name }}</span></button>
           <ul id="{{ nav_id }}" class="usa-nav__submenu">
             {% for subnav_item in nav_item.children %}
             <li class="usa-nav__submenu-item">
-              <a href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name | escape }}</a>
+              <a href="{{ subnav_item.url | prepend: site.baseurl }}">{{ subnav_item.name }}</a>
             </li>
             {% endfor %}
           </ul>
@@ -39,24 +39,13 @@ where we provide an easy way to manage your navigation system
         {% endunless %}
         {% endfor %}
       </ul>
-      <!-- Secondary navigation using values from config -->
-      <!-- <div class="usa-nav__secondary">
-        <ul class="usa-nav__secondary-links">
-          {% for nav_item in include.secondary_navigation %}
-          <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url | prepend: site.baseurl }}">{{ nav_item.name | escape }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-        {% include searchgov/form.html searchgov=site.searchgov %}
-      </div> -->
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
           <li class="usa-nav__secondary-item">
-            <a href="https://www.hhs.gov/coronavirus/index.html">COVID Data Hub</a>
+            <a class="ocdo-secondary-link" href="https://www.hhs.gov/coronavirus/index.html">COVID Data Hub</a>
           </li>
           <li class="usa-nav__secondary-item">
-            <a href="https://healthdata.gov">HealthData.gov</a>
+            <a class="ocdo-secondary-link" href="https://healthdata.gov">HealthData.gov</a>
           </li>
         </ul>
         {% include searchgov/form.html searchgov=site.searchgov %}
