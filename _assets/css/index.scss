@@ -43,6 +43,24 @@ a.ocdo-footer-link {
   }
 }
 
+.ocdo-footer-title {
+  font-size: 20pt;
+  padding: 0;
+  margin-top: 20px;
+  padding-left: 2rem;
+}
+
+.ocdo-footer-links {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.ocdo-footer-address {
+  font-weight: 600;
+  padding-left: 4rem;
+  min-width: 250px;
+}
+
 // Highlight icons
 .ocdo-highlight-icon {
   width: 124px;
