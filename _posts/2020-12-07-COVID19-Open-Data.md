@@ -24,6 +24,6 @@ Beyond the whole-of-government response, COVID-19 necessitates a whole-of-Americ
 
 The data reporting is one part of the whole-of-government response and is to ensure that every patient requiring hospitalization receives the care they need. Patients should not be discouraged from seeking hospital care based on their interpretation of the data. Hospitals have protocols in place to keep patients safe from exposure and to ensure all patients are prioritized for care. By working together across sectors, we are harnessing all capabilities and resources to unleash the power of U.S. data for the COVID-19 response.
 
-Together, we can combat COVID-19.
+Together, we can combat COVID-19. 
 
 *Disclaimer:* Please visit the [CDC’s website on COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for the most up-to-date information and COVID-19 guidance.
