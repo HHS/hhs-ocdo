@@ -3,6 +3,7 @@ $theme-show-notifications: false; // Hides updates from USWDS team
 $theme-show-compile-warnings: false; // Hides sass warnings from USDWS (might be bad)
 
 @import "uswds";
+@import usa-collection;
 
 // CSS Customizations
 
