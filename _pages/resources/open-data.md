@@ -1,5 +1,5 @@
 ---
-title: Open Data
+title: InnovationX
 layout: page
 sidenav: true
 anchors:
