@@ -75,18 +75,24 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Resources
+  - name: Core Projects
     children:
-      - name: Open Data
-        url: /resources/open-data/
-      - name: Data Visualizations
-        url: /resources/visualizations/
-  - name: Operations
+      - name: COVID-19 Data-Driven Innovation
+        url: /resources/covid-19-data-driven-innovation/
+      - name: Lyme Innovation
+        url: /resources/lyme-innovation/
+      - name: KidneyX
+        url: /resources/kidneyx/
+      - name: Health+
+        url: /resources/health+/
+  - name: Open Innovation
     children:
-      - name: Governance
-        url: /operations/governance/
-      - name: Data Initiatives
-        url: /operations/data-initiatives/
+      - name: Ignite Accelerator
+        url: /operations/ignite-accelerator/
+      - name: Innovation "Tours of Duty"
+        url: /operations/innovation-tours-of-duty/
+      - name: Startup Days
+        url: /operations/startup-days/
   - name: Blog
     url: /blog/
   - name: About
