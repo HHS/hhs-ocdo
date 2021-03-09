@@ -143,6 +143,11 @@ a.ocdo-footer-link {
   }
 }
 
+// collection component
+
+$theme-collection-font-family: "ui";
+$theme-collection-header-typeset: "ui", "md", 3;
+
 $collection-thumb-width: 10;
 $collection-thumb-width-mobile: 8;
 $collection-thumb-margin: 2;
