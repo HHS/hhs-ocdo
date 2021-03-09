@@ -1,5 +1,5 @@
 ---
-title: InnovationX
+title: COVID-19 Data-Driven Innovation
 layout: page
 sidenav: true
 anchors:
