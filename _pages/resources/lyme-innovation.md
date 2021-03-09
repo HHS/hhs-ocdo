@@ -1,5 +1,5 @@
 ---
-title: Visualizations
+title: Lyme Innovation
 layout: page
 sidenav: true
 anchors:
