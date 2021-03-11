@@ -3,23 +3,101 @@ title: Startup Days
 layout: page
 sidenav: true
 anchors:
+  - name: About
   - name: Cities
   - name: Participants
 ---
 
 # Startup Days
 
-Experts at HHS analyze data with charts or maps to visualize the story behind the data. The links below showcase websites across HHS Operating Divisions that provide the public with pre-made visualizations of data.
+Startup Days are a fantastic way for your startup to interact directly with HHS executives--we come to you!
+
+## About
+
+Our aim is to demystify HHS, by making our vision, priorities, processes and ways to engage very simple, and immediately actionable. The Office of the CTO has historically been a conduit between HHS and the startup community. We are always trying to find new ways to interact, engage, and learn with this community. We are excited to meet local startups that work in health tech or gov tech and align with the HHS mission.
+
+### Marketplace perception
+
+- There are not enough lines of communication between key HHS personnel and healthcare stakeholders.
+- Both large and small healthcare companies are not sufficiently aware of all the relevant funding, regulatory and collaborative opportunities from HHS.
+
+### Innovation
+
+Innovation is critical for organizations to improve and evolve. Technology is changing at a rapid pace and HHS must be ready to evolve and improve at the same pace. At HHS we think about innovation everyday. We seek to create new solutions to address some of the most complex public health crises like the opioid epidemic or to streamline and modernize government through new processes to perform as a high-performing organization.
+
+### Learn More
+
+- [Click here](https://youtu.be/4BQTn-p8IwU) to learn more.
 
 ## Cities
 
-- [HHS Coronavirus Home](https://www.hhs.gov/coronavirus/index.html) organizes Coronavirus information available from HHS, including:
-  - [HHS Product Public Data Hub](https://protect-public.hhs.gov/) provides high-quality, accessible, and timely information for entrepreneurs, researchers, and policy makers to help drive insights and better health outcomes for all. Visualization of COVID-19 data reported to HHS from academia, non-profit organizations, industry, hospitals, and facilities from all 50 states and territories is available to illustrate [Hospital Capacity](https://protect-public.hhs.gov/pages/hospital-capacity) and [National Testing data](https://protect-public.hhs.gov/pages/national-testing).
-  - [Covid Data Tracker](https://covid.cdc.gov/covid-data-tracker/) presents maps, charts, and data provided by the CDC.
-   - [COVID-19 Nursing Home Data](https://data.cms.gov/stories/s/bkwz-xpvg) includes data reported by nursing homes to the CDC’s National Healthcare Safety Network (NHSN) system COVID-19 Long Term Care Facility Module.
+Accelerators and incubators in these cities have invited HHS to explore how the department is looking at health challenges.
 
+| City             | Date               | News Coverage                                            |
+|------------------|--------------------|----------------------------------------------------------|
+| Washington, D.C. | February 5, 2018   | [FedScoop](https://www.fedscoop.com/hhs-debuts-new-startup-day-event-shark-tank-pitches/)                                                |
+| Boston           | March 29, 30, 2018 | [MedTech Boston](https://medtechboston.medstro.com/blog/2018/04/02/hhs-startup-day-aims-to-demystify-the-department-of-health-and-human-services/) <br> [Boston Business Journal](https://www.bizjournals.com/boston/news/2018/03/29/u-s-hhs-kicks-off-national-startup-day-tour-at.html) <br> [MedCityNews](https://medcitynews.com/2018/04/hhs-startup-day-hits-road-court-entrepreneurs/) |
+| Chicago          | May 23, 24, 2018   | [Healthcare IT News](https://www.healthcareitnews.com/news/hhs-hold-startup-day-chicago)                                     |
+| Nashville        | June 5, 6, 2018    |                                                          |
+| Seattle          | June 27, 2018      | [State of Reform](https://stateofreform.com/news/washington/2018/07/cambia-grove-hosts-startup-day-seattle-in-partnership-with-us-health-and-human-services/)                                        |
+| Atlanta          | September 12, 2018 | [Hypepotamus](https://hypepotamus.com/featured-events/atdc-federal-healthcare-innovation-summit/)                                            |
+| Minneapolis      | October 15, 2018   |                                                          |
+| Cleveland        | November 8, 2018   |                                                          |
+| Indianapolis     | March 19, 2019     |                                                          |
+| Denver           | May 6, 2019        |                                                          |
+| Los Angeles      | May 8, 2019        |                                                          |
+| Detroit          | July 15, 2019      | [MedHealth](https://medhealthinnovation.org/startup-day/)                                              |
+| Houston          | TBD                |                                                          |
 
 ## Participants
 
-- [CDC’s FluView](https://www.cdc.gov/flu/weekly/index.htm) shares the Weekly Influence Surveillance Report that includes key updates, maps, and charts.
+### Seattle
+
+- Cambia Grove
+
+### Atlanta
+
+- ATDC
+
+### Chicago
+
+- Healthbox
+- 7 Wire Ventures
+- Matter
+- Pritzker Group Venture Capital
+- Sandbox Industries
+
+### Nashville
+
+- Nashville Healthcare Council
+
+### Boston
+
+#### Primary:
+
+- Pulse at Mass Challenge
+- Massachusetts Ehealth Institute
+- City of Boston
+- Massachusetts Competitive Partnership
+- Harvard Pilgrim Healthcare
+- Massachusetts Office of Elder Affairs
+- MITRE
+- Northeastern
+- Brigham and Women’s Hospital
+
+#### Secondary:
+
+- Beth Israel Deaconess
+- Accenture
+- Harvard University
+- MIT
+- Boston University
+- Brandeis University
+- Massachusetts Competitive Partnership
+- athenahealth
+- Boston Healthcare for the Homeless Program
+- Franciscan Children’s Hospital
+- Massachusetts General Hospital
+- Boston Medical Center
+- Cigna
 
