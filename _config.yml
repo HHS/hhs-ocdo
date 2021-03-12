@@ -88,11 +88,13 @@ primary_navigation:
   - name: Open Innovation
     url: /operations/
     children:
+      - name: About Open Innovation
+        url: /operations/
       - name: Ignite Accelerator
         url: /operations/ignite-accelerator/
       - name: Innovation "Tours of Duty"
         url: /operations/innovation-tours-of-duty/
-      - name: Startup Days
+      - name: Innovation/Demo/Startup Days
         url: /operations/startup-days/
   - name: Blog
     url: /blog/
