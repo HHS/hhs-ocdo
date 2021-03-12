@@ -7,6 +7,8 @@ anchors:
   - name: COVID-19 Diagnostics Design-a-thon
   - name: COVID-19 Open Data Roundtables
 ---
+
+
 # COVID-19 Data-Driven Innovation
 
 <i>Note: Please visit the [CDC’s website on COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for the most up-to-date information and COVID-19 guidance.</i>
@@ -125,24 +127,24 @@ HHS is now exploring a potential COVID-19 Open Data Roundtable as well as other 
 
 Previous HHS Roundtables include:
 
-[Roundtable on Data Sharing Policies, Data-Driven Solutions, and the Opioid Crisis](http://reports.opendataenterprise.org/HHS-Opioid-Roundtable-Report.pdf)
+- [Roundtable on Data Sharing Policies, Data-Driven Solutions, and the Opioid Crisis](http://reports.opendataenterprise.org/HHS-Opioid-Roundtable-Report.pdf)
 July 2018
 
-[Lyme Innovation Roundtable](http://reports.opendataenterprise.org/Lyme Innovation Roundtable Report.pdf)
+- [Lyme Innovation Roundtable](http://reports.opendataenterprise.org/Lyme Innovation Roundtable Report.pdf)
 December 2018
 
-[Roundtable on Sharing and Utilizing Health Data for AI Applications](https://healthdatasharing.org/wp-content/uploads/2020/07/RT1-AI-Summary-Report-FINAL-2020.07.28.pdf)
+- [Roundtable on Sharing and Utilizing Health Data for AI Applications](https://healthdatasharing.org/wp-content/uploads/2020/07/RT1-AI-Summary-Report-FINAL-2020.07.28.pdf)
 April 2019
 
-[Roundtable on Balancing Privacy with Health Data Access](https://healthdatasharing.org/wp-content/uploads/2020/07/RT2-Privacy-Summary-Report-FINAL-2020.07.28.pdf)
+- [Roundtable on Balancing Privacy with Health Data Access](https://healthdatasharing.org/wp-content/uploads/2020/07/RT2-Privacy-Summary-Report-FINAL-2020.07.28.pdf)
 July 2019
 
-[Roundtable on Leveraging Data on the Social Determinants of Health](https://healthdatasharing.org/wp-content/uploads/2020/07/RT3-SDOH-Summary-Report-FINAL-2020.07.28.pdf)
+- [Roundtable on Leveraging Data on the Social Determinants of Health](https://healthdatasharing.org/wp-content/uploads/2020/07/RT3-SDOH-Summary-Report-FINAL-2020.07.28.pdf)
 October 2019
 
-[Roundtable on Leveraging Data to Address Sickle Cell Disease](http://reports.opendataenterprise.org/SCD-Report-FINAL.pdf)
+- [Roundtable on Leveraging Data to Address Sickle Cell Disease](http://reports.opendataenterprise.org/SCD-Report-FINAL.pdf)
 June 2020
 
-[Roundtable on Using SDOH Data to Fight COVID-19 and Support Recovery Efforts](https://healthdatasharing.org/wp-content/uploads/2020/12/COVID-SDOH-Summary-Report-Final.pdf)
+- [Roundtable on Using SDOH Data to Fight COVID-19 and Support Recovery Efforts](https://healthdatasharing.org/wp-content/uploads/2020/12/COVID-SDOH-Summary-Report-Final.pdf)
 August 2020
 
