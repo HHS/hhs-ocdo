@@ -1,15 +1,17 @@
  <ul class="usa-collection">
   <li class="usa-collection__item">
     <div class="usa-collection__body">
+     {% for item in site.data.collections %}
       <h3 class="usa-collection__heading">
-        <a class="usa-link" href="https://wonder.cdc.gov/">CDC WONDER</a>
+        <a class="usa-link" href="{{item.url}}">{{item.name}}</a>
       </h3>
-      <p class="usa-collection__description">An online query system that provides access to a wide range of CDC resources and data systems. The intended audience is public health practitioners and decision makers.</p>
+      <p class="usa-collection__description">{{item.description}}</p>
       <ul class="usa-collection__meta" aria-label="More information">
         <li class="usa-collection__meta-item">
-          CDC
+          {{item.name}}
         </li>
       </ul>
+     {% endfor %}
     </div>
   </li>
 </ul>
