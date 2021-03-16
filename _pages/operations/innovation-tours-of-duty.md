@@ -10,6 +10,8 @@ anchors:
   - name: Innovators in Residence
 ---
 
+
+
 # Innovation "Tours of Duty"
 
 Tapping into outside talent to solve complex problems in health and the delivery of human services. Join us to serve as an Entrepreneur-in-Residence (EIR)!
@@ -142,13 +144,14 @@ If your organization is interested in becoming a sponsoring organization or has 
 Will Yang, Interim Program Director –  Will.Yang@hhs.gov
 
 ### EIRs in the news
-[“How an Entrepreneur-In-residence changes the culture at CMS”](https://www.hitechanswers.net/entrepreneur-residence-changed-culture-cms/) by HITECH Answers
-[“HHS Taking Applications for Entrepreneurs”](http://www.federaltimes.com/story/government/it/health/2015/08/26/idea-lab-entrepreneur/32409823/) by Federal Times
-[“The American Way of Death Data”](https://fcw.com/articles/2015/08/14/mortality-data.aspx) by Federal Computer Week (featuring EIR Paula Braun & her project)
-[“An Interview with Greg Downing: Join Forces with Outside Talent”](http://federalnewsradio.com/federal-drive/2015/08/greg-downing-joining-forces-with-outside-talent/) by Federal News Radio
-[“Government Infecting Itself with Entrepreneurial Spirit”](http://techonomy.com/2015/07/government-infecting-itself-with-entrepreneurial-spirit/) by Techonomy
-[“HHS Adds New Class of Entrepreneurs-in-Residence”](https://www.washingtonpost.com/business/on-it/hhs-adds-new-class-of-entrepreneurs-in-residence/2014/12/05/92a4cfd6-7a71-11e4-9a27-6fdbc612bff8_story.html) by the Washington Post
-[“Next Wave of Entrepreneurs Arrives at HHS to Help Tackle Major Healthcare Challenges”](http://www.openhealthnews.com/content/next-wave-entrepreneurs-arrives-hhs-help-tackle-major-healthcare-challenges) by Open Health News
+
+- [“How an Entrepreneur-In-residence changes the culture at CMS”](https://www.hitechanswers.net/entrepreneur-residence-changed-culture-cms/) by HITECH Answers
+- [“HHS Taking Applications for Entrepreneurs”](http://www.federaltimes.com/story/government/it/health/2015/08/26/idea-lab-entrepreneur/32409823/) by Federal Times
+- [“The American Way of Death Data”](https://fcw.com/articles/2015/08/14/mortality-data.aspx) by Federal Computer Week (featuring EIR Paula Braun & her project)
+- [“An Interview with Greg Downing: Join Forces with Outside Talent”](http://federalnewsradio.com/federal-drive/2015/08/greg-downing-joining-forces-with-outside-talent/) by Federal News Radio
+- [“Government Infecting Itself with Entrepreneurial Spirit”](http://techonomy.com/2015/07/government-infecting-itself-with-entrepreneurial-spirit/) by Techonomy
+- [“HHS Adds New Class of Entrepreneurs-in-Residence”](https://www.washingtonpost.com/business/on-it/hhs-adds-new-class-of-entrepreneurs-in-residence/2014/12/05/92a4cfd6-7a71-11e4-9a27-6fdbc612bff8_story.html) by the Washington Post
+- [“Next Wave of Entrepreneurs Arrives at HHS to Help Tackle Major Healthcare Challenges”](http://www.openhealthnews.com/content/next-wave-entrepreneurs-arrives-hhs-help-tackle-major-healthcare-challenges) by Open Health News
 
 ### Frequently Asked Questions
 
