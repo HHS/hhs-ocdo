@@ -1,1 +1,18 @@
-
+uswds-collection
+ <ul class="usa-collection">
+  {% for item in site.data[page.datafile] %}
+  <li class="usa-collection__item">
+    <div class="usa-collection__body">    
+      <h3 class="usa-collection__heading">
+        <a class="usa-link" href="{{item.url}}">{{item.name}}</a>
+      </h3>
+      <p class="usa-collection__description">{{item.description}}</p>
+      <ul class="usa-collection__meta" aria-label="More information">
+        <li class="usa-collection__meta-item">
+          {{item.name}}
+        </li>
+     </ul>
+    </div>
+  </li>
+ {% endfor %}
+</ul>
