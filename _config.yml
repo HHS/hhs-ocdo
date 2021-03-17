@@ -79,7 +79,7 @@ primary_navigation:
   - name: Core Projects
     children:
       - name: COVID-19 Data-Driven Innovation
-        url: /resources/covid-19-data-driven-innovation/
+        url: /resources/covid-19-data-innovation/
       - name: Lyme Innovation
         url: /resources/lyme-innovation/
       - name: KidneyX
