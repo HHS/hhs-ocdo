@@ -1,6 +1,6 @@
  <ul class="usa-collection">
+  {% for item in site.data.collections %}
   <li class="usa-collection__item">
-   {% for item in site.data.collections %}
     <div class="usa-collection__body">    
       <h3 class="usa-collection__heading">
         <a class="usa-link" href="{{item.url}}">{{item.name}}</a>
@@ -12,6 +12,6 @@
         </li>
      </ul>
     </div>
-   {% endfor %}
   </li>
+ {% endfor %}
 </ul>
