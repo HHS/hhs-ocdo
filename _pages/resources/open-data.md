@@ -21,6 +21,8 @@ HHS publishes datasets as part of its Open Data program. The primary resource fo
 
 ## Data Repositories and Search Tools
 
+{% include collection.html %}
+
 - The [Health Services and Sciences Research Resources database](https://hsrr.nlm.nih.gov/) is designed for health care researchers and health sciences librarians. It provides information about research datasets and instruments/indices employed in Health Services Research, Behavioral and Social Sciences and Public Health. The database does not contain actual resources but does include links to PubMed and URLs with additional information.
 - The [NIH Data Sharing Repositories](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html) is a list of repositories containing biomedical data from NIH-funded and other scientific research. It is maintained by the BioMedical Informatics Coordinating Committee The inventory contains 82 data repositories, most of which are public use. The data contained within the repositories is intended for use by researchers, and many of the repositories allow for open submission by NIH-funded and other researchers.
 - The [CMS Data Navigator](https://dnav.cms.gov/) is an interactive search tool for CMS data assets including reports, publications, interactive tools, fact sheets, and other types of data. The user can search for data assets by program, setting/type of care, geography or document type. The data navigator comprises 430 data assets. The audience for the inventory is not explicitly described.
@@ -34,4 +36,4 @@ HHS publishes datasets as part of its Open Data program. The primary resource fo
 - [CDC WONDER](https://wonder.cdc.gov/) (Wide-ranging Online Data for Epidemiologic Research) is an online query system that provides access to a wide range of CDC resources and data systems. The intended audience is public health practitioners and decision makers.
 - The [HRSA warehouse](https://data.hrsa.gov/tools/data-explorer) holds maps, dashboards, and query tools that outline HRSA's programs. The website provides access to data for HRSA grantees, clinicians, and health researchers and practitioners.
 
-{% include collection.html %}
+
