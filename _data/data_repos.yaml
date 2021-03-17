@@ -2,7 +2,10 @@
   url: https://hsrr.nlm.nih.gov/
   description: The Health Services and Sciences Research Resources database is designed for health care researchers and health sciences librarians. It provides information about research datasets and instruments/indices employed in Health Services Research, Behavioral and Social Sciences and Public Health. The database does not contain actual resources but does include links to PubMed and URLs with additional information.
   publisher: National Intitutes of Health (NIH)
-  # thumb_url: 
+  tags:
+    - NIH
+    - Health
+    - Services
 
 - name: NIH Data Sharing Repositories
   url: https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html

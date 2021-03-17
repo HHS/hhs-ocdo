@@ -1,5 +1,4 @@
-uswds-collection
- <ul class="usa-collection">
+<ul class="usa-collection">
   {% for item in site.data[page.datafile] %}
   <li class="usa-collection__item">
    <!-- <img class="usa-collection__img" src="{{item.thumb_url}}" alt="Alt text"> -->
@@ -12,7 +11,14 @@ uswds-collection
         <li class="usa-collection__meta-item">
           {{item.publisher}}
         </li>
-     </ul>
+      </ul>
+      <ul class="usa-collection__meta" aria-label="Topics">
+        {% for tag in item.tags %}
+        <li class="usa-collection__meta-item usa-tag">
+          {{tag}}
+        </li>
+        {% endfor %}
+      </ul>
     </div>
   </li>
  {% endfor %}
