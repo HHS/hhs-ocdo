@@ -4,60 +4,81 @@
   publisher: National Intitutes of Health (NIH)
   tags:
     - NIH
-    - Health
-    - Services
 
 - name: NIH Data Sharing Repositories
   url: https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html
   description: The NIH Data Sharing Repositories is a list of repositories containing biomedical data from NIH-funded and other scientific research. It is maintained by the BioMedical Informatics Coordinating Committee The inventory contains 82 data repositories, most of which are public use. The data contained within the repositories is intended for use by researchers, and many of the repositories allow for open submission by NIH-funded and other researchers.
   publisher: National Intitutes of Health (NIH)
+  tags:
+    - NIH
 
 - name: CMS Data Navigator
   url: https://dnav.cms.gov/
   description: The CMS Data Navigator is an interactive search tool for CMS data assets including reports, publications, interactive tools, fact sheets, and other types of data. The user can search for data assets by program, setting/type of care, geography or document type. The data navigator comprises 430 data assets. The audience for the inventory is not explicitly described.
   publisher: Center for Medicare & Medicaid Services (CMS)
+  tags: 
+    - CMS
 
 - name: National Center for Health Statistics
   url: https://www.cdc.gov/nchs/index.htm
   description: The National Center for Health Statistics provides access to surveys and data collection systems collected and maintained by NCHS, the principal federal statistics agency for health. These include population surveys, provider surveys, historical surveys, and vital statistics data. The intended audience is public health and health policy researchers and practitioners.
   publisher: Center for Disease Control and Prevention (CDC)
+  tags:
+    - CDC
 
 - name: Portal to Medicare
   url: https://data.medicare.gov/
   description: Portal to Medicare is maintained by the Centers for Medicare and Medicaid Services to compare data for hospitals, nursing homes, physicians, home health care, dialysis facility, hospice, rehabilitation facility, long-term care, and suppliers. The datasets are pulled from the Medicare.gov's Compare Websites and Directories.
   publisher: Center for Medicare & Medicaid Services (CMS)
+  tags:
+    - CMS
 
 - name: Healthcare Cost and Utilization Project
   url: https://www.hcup-us.ahrq.gov/
   description: The Healthcare Cost and Utilization Project (HCUP) consists of health care databases and related software tools and products developed through Federal-State-Industry partnerships and sponsored by the Agency for Healthcare Research and Quality. Example of data found in this database are encounter-level health care data, longitudinal hospital care data (dating to 1988), health policy issues, cost/quality of health services, medical practice patterns, and accessibility to health care programs. The intended audience is health services researchers and decision makers.
   publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  tags:
+    - AHRQ
 
 - name: National Data Archive on Child Abuse and Neglect
   url: https://www.ndacan.acf.hhs.gov/datasets/datasets-list.cfm
   description: The National Data Archive on Child Abuse and Neglect (NDACAN) is an inventory of datasets obtained from researchers and data collection efforts in the field of child abuse an neglect. The inventory is housed at Cornell University and datasets may be requested by researchers.
   publisher: The Children's Bureau (CB)
+  tags:
+    - HHS
+    - CB
 
 - name: Research Data Assistance Center
   url: https://www.resdac.org/
   description: The Research Data Assistance Center provides free assistance to researchers interested in the CMS data. As a CMS contractor, ResDAC provides assistance to academic, non-profit, for-profit and government researchers.
   publisher: Research Data Assistance Center (ResDAC)
+  tags:
+    - RESDAC
 
 - name: DCCPS Public Datasets & Analyses
   url: https://cancercontrol.cancer.gov/cr-dataset.html
   description: The DCCPS Public Datasets & Analyses inventory is a directory of data sources about cancer research and epidemiology, cancer survival, health services, and behavioral sciences. The Division of Cancer Control and Population Sciences created this data resource for the public and research community.
   publisher: NIH Division of Cancer Control and Population Sciences
+  tags:
+    - NIH
 
 - name: Data and Specimen Hub
   url: https://dash.nichd.nih.gov/
   description: The Data and Specimen Hub (DASH) is a centralized resource for researchers to store de-identified data and to access data and associated biospecimens from NICHD supported studies for use in secondary research. The intended audience is researchers.
   publisher: National Intitutes of Health (NIH)
+  tags:
+    - NIH
 
 - name: CDC WONDER
   url: https://wonder.cdc.gov/
   description: CDC WONDER (Wide-ranging Online Data for Epidemiologic Research) is an online query system that provides access to a wide range of CDC resources and data systems. The intended audience is public health practitioners and decision makers.
   publisher: Center for Disease Control and Prevention (CDC)
+  tags:
+    - CDC
 
 - name: HRSA Warehouse
   url: https://data.hrsa.gov/tools/data-explorer
   description: The HRSA Warehouse holds maps, dashboards, and query tools that outline HRSA's programs. The website provides access to data for HRSA grantees, clinicians, and health researchers and practitioners.
   publisher: Health Resources & Services Administration (HRSA)
+  tags:
+    - HRSA
