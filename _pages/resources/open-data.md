@@ -2,6 +2,7 @@
 title: Open Data
 layout: page
 sidenav: true
+datafile: collections
 anchors:
   - name: Open Data Inventories and APIs
   - name: Data Repositories and Search Tools
