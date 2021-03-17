@@ -1,8 +1,5 @@
-
-
 <ul class="usa-collection">
-  {% assign dataset = include.dataset %}
-  {% for item in site.data[dataset] %}
+  {% for item in site.data[page.datafile] %}
   <li class="usa-collection__item">
    <!-- <img class="usa-collection__img" src="{{item.thumb_url}}" alt="Alt text"> -->
     <div class="usa-collection__body">    
@@ -20,7 +17,7 @@
         <li class="usa-collection__meta-item usa-tag">
           {{tag}}
         </li>
-        {% endfor %}
+        {% endfor}
       </ul>
     </div>
   </li>
