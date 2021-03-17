@@ -2,6 +2,7 @@
   url: https://hsrr.nlm.nih.gov/
   description: This database is designed for health care researchers and health sciences librarians. It provides information about research datasets and instruments/indices employed in Health Services Research, Behavioral and Social Sciences and Public Health. The database does not contain actual resources but does include links to PubMed and URLs with additional information.
   publisher: National Intitutes of Health (NIH)
+  # thumb_url: 
 
 - name: NIH Data Sharing Repositories
   url: https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html
@@ -12,3 +13,5 @@
   url: https://dnav.cms.gov/
   description: The CMS Data Navigator is an interactive search tool for CMS data assets including reports, publications, interactive tools, fact sheets, and other types of data. The user can search for data assets by program, setting/type of care, geography or document type. The data navigator comprises 430 data assets. The audience for the inventory is not explicitly described.
   publisher: Center for Medicare & Medicaid Services (CMS)
+
+
