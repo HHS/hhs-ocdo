@@ -1,9 +1,9 @@
-{% capture data_repos %}
+{% capture data_repos_var %}
 {{site.data.data_repos}} 
 {% endcapture %}
 
 <ul class="usa-collection">
-  {% for item in include.dataset %}
+  {% for item in {{include.dataset}} %}
   <li class="usa-collection__item">
    <!-- <img class="usa-collection__img" src="{{item.thumb_url}}" alt="Alt text"> -->
     <div class="usa-collection__body">    
