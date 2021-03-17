@@ -21,4 +21,4 @@ HHS publishes datasets as part of its Open Data program. The primary resource fo
 
 ## Data Repositories and Search Tools
 
-{% include collection.html dataset=data_repos_var %}
+{% include collection.html %}
