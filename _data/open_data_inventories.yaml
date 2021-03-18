@@ -2,7 +2,7 @@
   url: https://healthdata.gov/
   description: Healthdata.gov is dedicated to making data discoverable and making valuable government data available to the public in the hopes of better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: {% asset hero-image.png %}
   tags:
     - HHS
     - OPEN DATA
