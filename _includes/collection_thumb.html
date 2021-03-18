@@ -1,0 +1,25 @@
+<ul class="usa-collection">
+    {% for item in site.data[page.thumbdatafile] %}
+    <li class="usa-collection__item">
+     <img class="usa-collection__img" src="{{item.thumb_url}}" alt="Alt text">
+      <div class="usa-collection__body">    
+        <h3 class="usa-collection__heading">
+          <a class="usa-link" href="{{item.url}}">{{item.name}}</a>
+        </h3>
+        <p class="usa-collection__description">{{item.description}}</p>
+        <ul class="usa-collection__meta" aria-label="More information">
+          <li class="usa-collection__meta-item">
+            {{item.publisher}}
+          </li>
+        </ul>
+        <ul class="usa-collection__meta" aria-label="Topics">
+          {% for tag in item.tags %}
+          <li class="usa-collection__meta-item usa-tag">
+            {{tag}}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </li>
+   {% endfor %}
+  </ul>
