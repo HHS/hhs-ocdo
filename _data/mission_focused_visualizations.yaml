@@ -1,0 +1,65 @@
+- name: Healthy People 2030
+  url: https://health.gov/healthypeople
+  description: Healthy People 2030 sets data-driven national objectives to improve health and well-being over the next decade and publishes how national data is used to measure progress. From the Office of Disease Prevention and Health Promotion, Office of the Assistant Secretary for Health, Office of the Secretary, U.S. Department of Health and Human Services.
+  publisher: Office of Disease Prevention and Health Promotion, HHS
+  tags:
+    - HHS
+
+- name: Minority Health Profiles
+  url: https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=2&lvlID=26
+  description: Minority Health Profiles from the Office of Minority Health provide detailed demographic, language fluency (where relevant), education, economic, insurance coverage and health status information, as well as full census reports.
+  publisher: Office of Minority Health, HHS
+  tags:
+    - HHS
+    - OMH
+
+- name: CDC's National Cener for Health Statistics
+  url: https://www.cdc.gov/nchs/index.htm
+  description: CDC's National Cener for Health Statistics data sharing includes a Visual Gallery, a collection of interactive tools that present NCHS data in a visually engaging format.
+  publisher: Center for Disease Control and Prevention (CDC)
+  tags:
+    - CDC
+    - NCHS
+
+- name: HCUP Infographics
+  url: https://www.hcup-us.ahrq.gov/reports/infographics.jsp
+  description: The Healthcare Cost and Utilization Project (HCUP) publishes HCUP Infographics, a visual representation of data found in HCUP Statistical Briefs and HCUP Findings-At-A-Glance.
+  publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  tags:
+    - AHRQ
+    - HCUP
+
+- name: HRSA Warehouse
+  url: https://data.hrsa.gov/tools/data-explorer
+  description: The HRSA Warehouse holds maps, dashboards, and query tools that outline HRSA's programs. The website provides access to data for HRSA grantees, clinicians, and health researchers and practitioners.
+  publisher: Health Resources & Services Administration (HRSA)
+  tags:
+    - HRSA
+
+- name: WISQARS
+  url: https://www.cdc.gov/injury/wisqars/index.html
+  description: WISQARS is a collection of querying tools of data related to injury and violent death, for use by researchers, the public, and the media. It is run by the National Center for Injury Prevention and Control (CDC). It is divided into three data systems, fatal injury, non-fatal injury, and violent deaths, with 10 unique querying tools.
+  publisher: Center for Disease Control and Prevention (CDC)
+  tags:
+    - CDC
+
+- name: Aging, Independence, and Disability Program Data Portal
+  url: https://agid.acl.gov/
+  description: The Aging, Independence, and Disability Program Data Portal provides visualized data through Data-At-A-Glance and State Profiles.
+  publisher: Administration for Community Living (ACL)
+  tags:
+    - ACL
+
+- name: AHRQ Data Visualizations
+  url: https://www.ahrq.gov/data/visualizations/index.html
+  description: The Agency for Healthcare Research and Quality) shares infographics, visualizations, and a state snapshot tool to make sense of health care quality and disparities that may exist
+  publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  tags:
+    - AHRQ
+
+- name: Substance Abuse and Mental Health Data Archive
+  url: https://www.datafiles.samhsa.gov/info/analyze-data-nid6
+  description: The Substance Abuse and Mental Health Data Archive provides visualization and tools to enable user-defined analysis.
+  publisher: Substance Abuse and Mental Health Services Administration (SAMHSA)
+  tags:
+    - SAMHSA
