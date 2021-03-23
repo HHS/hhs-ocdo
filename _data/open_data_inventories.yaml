@@ -2,7 +2,7 @@
   url: https://healthdata.gov/
   description: Healthdata.gov is dedicated to making data discoverable and making valuable government data available to the public in the hopes of better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: healthdata.jpg
   tags:
     - HHS
     - OPEN DATA
@@ -11,7 +11,7 @@
   url: https://protect-public.hhs.gov/
   description: The HHS Protect Public Data Hub provides high-quality, accessible, and timely information for entrepreneurs, researchers, and policy makers to help drive insights and better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: protect-public.png
   tags:
     - COVID-19
     - OPEN DATA
@@ -20,7 +20,7 @@
   url: https://open.fda.gov/
   description: Open FDA is a web-based API for querying data from FDA reporting systems, for example the FDA Adverse Events Reporting System (FAERS). The API is divided into 5 data systems (18 total data assets), Animal and Veterinary; Food; Human Drug; Medical Device; and Other. Data sets are also downloadable and are derived from FDA reporting systems. The source code for the API is open access.
   publisher: Food and Drug Administration (FDA)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: open-fda.jpg
   tags:
     - OPEN DATA
 
@@ -28,6 +28,6 @@
   url: https://data.cdc.gov/
   description: Data.CDC.gov catalogs numerous types of data covering 21 categories, including, smoking and tobacco use; injury and violence; and disability and health. Data are publicly available.
   publisher: Center for Disease Control and Prevention (CDC)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: data-cdc.jpg
   tags:
     - OPEN DATA
