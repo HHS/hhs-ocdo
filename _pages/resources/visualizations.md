@@ -14,6 +14,8 @@ anchors:
 
 Experts at HHS analyze data with charts or maps to visualize the story behind the data. The links below showcase websites across HHS Operating Divisions that provide the public with pre-made visualizations of data.
 
+<img src="{{site.baseurl}}/thumbs/art-kane.jpg" alt="Alt text">
+
 ## COVID-19
 
 {% include collection_thumb.html %}
