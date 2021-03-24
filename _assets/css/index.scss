@@ -4,6 +4,12 @@ $theme-show-compile-warnings: false; // Hides sass warnings from USDWS (might be
 
 @import "uswds";
 
+// smooth scroll
+
+html {
+	scroll-behavior: smooth;
+}
+
 // CSS Customizations
 
 // Hero image
@@ -256,3 +262,4 @@ $collection-thumb-margin: 2;
     @include u-padding-top(1);
   }
 }
+
