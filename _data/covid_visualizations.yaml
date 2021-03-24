@@ -11,7 +11,7 @@
   url: https://protect-public.hhs.gov/
   description: The HHS Protect Public Data Hub provides high-quality, accessible, and timely information for entrepreneurs, researchers, and policy makers to help drive insights and better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: hhs-covid-home.jpg
   tags:
     - COVID-19
     - OPEN DATA
@@ -20,7 +20,7 @@
   url: https://covid.cdc.gov/covid-data-tracker/
   description: Covid Data Tracker presents maps, charts, and data provided by the CDC.
   publisher: Center for Disease Control and Prevention (CDC)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: cdc-covid-tracker.jpg
   tags:
     - COVID-19
     - OPEN DATA
@@ -29,7 +29,7 @@
   url: https://data.cms.gov/stories/s/bkwz-xpvg
   description: COVID-19 Nursing Home Data includes data reported by nursing homes to the CDC’s National Healthcare Safety Network (NHSN) system COVID-19 Long Term Care Facility Module.
   publisher: Center for Medicare & Medicaid Services (CMS)
-  thumb_url: https://www.hhs.gov/sites/default/files/hhs-emblem-black.gif
+  thumb_url: cms-covid.jpg
   tags:
     - COVID-19
     - NURSING HOMES
