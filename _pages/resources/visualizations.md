@@ -29,7 +29,7 @@ Experts at HHS analyze data with charts or maps to visualize the story behind th
 <p class="usa-collection__description">CDC’s FluView shares the Weekly Influence Surveillance Report that includes key updates, maps, and charts.</p>
 <ul class="usa-collection__meta" aria-label="More information">
 <li class="usa-collection__meta-item">
-Center for Disease Control and Prevention (CDC)
+Centers for Disease Control and Prevention (CDC)
 </li>
 </ul>
 <ul class="usa-collection__meta" aria-label="Topics">
