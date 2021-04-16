@@ -4,7 +4,6 @@
   publisher: Department of Health and Human Services (HHS)
   thumb_url: hhs-coronavirus-home.jpg
   tags:
-    - HHS
     - covid-19
 
 - name: HHS Protect Public Data Hub
@@ -14,7 +13,8 @@
   thumb_url: protect-public.png
   tags:
     - COVID-19
-    - OPEN DATA
+    - Policy
+    - Open Data
 
 - name: Covid Data Tracker
   url: https://covid.cdc.gov/covid-data-tracker/
@@ -23,7 +23,7 @@
   thumb_url: cdc-covid-tracker.jpg
   tags:
     - COVID-19
-    - OPEN DATA
+    - Public Health
 
 - name: COVID-19 Nursing Home Data
   url: https://data.cms.gov/stories/s/bkwz-xpvg
@@ -32,4 +32,4 @@
   thumb_url: cms-covid.jpg
   tags:
     - COVID-19
-    - NURSING HOMES
+    - Long-Term Care
