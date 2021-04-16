@@ -22,7 +22,7 @@
 - name: National Center for Health Statistics
   url: https://www.cdc.gov/nchs/index.htm
   description: The National Center for Health Statistics provides access to surveys and data collection systems collected and maintained by NCHS, the principal federal statistics agency for health. These include population surveys, provider surveys, historical surveys, and vital statistics data. The intended audience is public health and health policy researchers and practitioners.
-  publisher: Center for Disease Control and Prevention (CDC)
+  publisher: Centers for Disease Control and Prevention (CDC)
   tags:
     - CDC
 
@@ -72,7 +72,7 @@
 - name: CDC WONDER
   url: https://wonder.cdc.gov/
   description: CDC WONDER (Wide-ranging Online Data for Epidemiologic Research) is an online query system that provides access to a wide range of CDC resources and data systems. The intended audience is public health practitioners and decision makers.
-  publisher: Center for Disease Control and Prevention (CDC)
+  publisher: Centers for Disease Control and Prevention (CDC)
   tags:
     - CDC
 
@@ -82,3 +82,9 @@
   publisher: Health Resources & Services Administration (HRSA)
   tags:
     - HRSA
+- name: openCDC
+  url: https://open.cdc.gov
+  description: CDC strives to be open with our public health data sets, APIs and code repositories. By sharing CDC resources, we hope to foster innovation and increase the health security of our nation. CDC Open Technology is an open innovation program sponsored by CDC's Office of the Chief Information Officer.
+  publisher: Centers for Disease Control and Prevention (CDC)
+  tags:
+    - CDC
