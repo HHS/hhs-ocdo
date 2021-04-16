@@ -16,7 +16,7 @@
     - COVID-19
     - OPEN DATA
 
-- name: OPEN FDA
+- name: Open FDA
   url: https://open.fda.gov/
   description: Open FDA is a web-based API for querying data from FDA reporting systems, for example the FDA Adverse Events Reporting System (FAERS). The API is divided into 5 data systems (18 total data assets), Animal and Veterinary; Food; Human Drug; Medical Device; and Other. Data sets are also downloadable and are derived from FDA reporting systems. The source code for the API is open access.
   publisher: Food and Drug Administration (FDA)
