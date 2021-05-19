@@ -83,10 +83,10 @@ primary_navigation:
         url: /resources/visualizations/
   - name: Operations
     children:
-      - name: Governance
-        url: /operations/governance/
       - name: Data Initiatives
         url: /operations/data-initiatives/
+      - name: Governance
+        url: /operations/governance/
   - name: Blog
     url: /blog/
   - name: About
