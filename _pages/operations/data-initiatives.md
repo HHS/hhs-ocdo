@@ -11,6 +11,19 @@ anchors:
 
 OCDO is following the direction set in the [Federal Data Strategy](https://strategy.data.gov/), which includes advancements in two key areas.
 
+OCDO is fulfilling the legal obligations of Title II, Section 3520. Functions include:
+  - Be responsible for lifecycle data management.
+  - Ensure all data needs of the Department are met.
+  - Manage data assets of the Department.
+  - Encourage collaborative approaches on improving data use.
+  - Improve infrastructure to reduce barriers that inhibit data asset accessibility. 
+
+OCDO’s work addresses the HHS Information Technology Strategic Plan Goal #3: Enhance Data and Interoperability. Establish data as a strategic asset by developing data and interoperability policies, ethics, strategies, and standards that default to sharing and discovery in order to increase data-driven innovation across HHS.
+  - 3.1 Standardize data sharing.
+  - 3.2 Create data policies.
+  - 3.3 Cultivate data sharing culture.
+  - 3.4 Increase data insights.
+
 ## Data Maturity
 
 HHS OCDO is following the [CMMI Data Management Maturity Model](https://cmmiinstitute.com/data-management-maturity), an industry standard, to serve as the foundation for building and enhancing the Department’s data management capabilities.
