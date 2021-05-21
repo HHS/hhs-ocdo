@@ -17,6 +17,18 @@ html {
   background-image: asset_url("hero-image.jpg");
 }
 
+.ocdo-hero__heading {
+  margin-bottom: 0;
+  margin-top: 0;
+  clear: both;
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+  font-size: 1.95rem;
+  line-height: 1.2;
+  font-weight: bold;
+  color: #ce2a48;
+  line-height: 1.2;
+}
+
 // Hero callout customizations
 @media all and (min-width: 40em) {
   .ocdo-hero-callout {
@@ -39,6 +51,7 @@ html {
 
 .ocdo-section--dark{
   background-color: #25294d;
+  color: #FFFFFF;
 }
 
 // Footer customizations
