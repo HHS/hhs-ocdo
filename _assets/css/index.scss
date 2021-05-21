@@ -20,7 +20,8 @@ html {
 // Hero callout customizations
 @media all and (min-width: 40em) {
   .ocdo-hero-callout {
-    max-width: 28rem; // overrides USWDS maximum
+    max-width: 28rem;
+    background-color: #25294d; // overrides USWDS maximum
   }
 }
 
