@@ -21,3 +21,4 @@ In support of HHS’s mission to enhance the health and well-being of all Americ
 - Maximizing the nation’s return on investment through the systematic management of data as a strategic asset. 
 
 ## Core Values
+{% include core-values.html %}

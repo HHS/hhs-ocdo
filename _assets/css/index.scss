@@ -33,8 +33,18 @@ html {
 @media all and (min-width: 40em) {
   .ocdo-hero-callout {
     max-width: 32.23rem;
-    background-color: #25294d; // overrides USWDS maximum
+    background-color: #25294d;
   }
+}
+
+// Primary navigation
+
+.ocdo-submenu{
+  background-color: #25294d;
+}
+
+.ocdo-primarymenu{
+  background-color: #25294d; 
 }
 
 // Secondary navigation customizations
