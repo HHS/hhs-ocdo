@@ -17,15 +17,15 @@ where we provide an easy way to manage your navigation system
         {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
         {% assign linkdir = nav_item.url | replace: "/", "" | lstrip %}
         {% assign droplink = nav_item.name | downcase | lstrip %}
-        <li class="usa-nav__primary-item ocdo-primarymenu">
-          <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
+        <li class="usa-nav__primary-item">
+          <a class="usa-nav__link{% if basedir == linkdir %} usa-current ocdo-primarymenu{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name }}</span></a>
         </li>
         {% else %}
         {% assign nav_id = 'primary-nav-' | append: forloop.index %}
         {% assign droplink = nav_item.name | downcase | lstrip %}
-        <li class="usa-nav__primary-item ocdo-primarymenu">
-          <button class="usa-accordion__button usa-nav__link{% if basedir == droplink %} usa-current{% endif %}" aria-expanded="false"
+        <li class="usa-nav__primary-item">
+          <button class="usa-accordion__button usa-nav__link{% if basedir == droplink %} usa-current ocdo-primarymenu{% endif %}" aria-expanded="false"
             aria-controls="{{ nav_id }}"><span>{{ nav_item.name }}</span></button>
           <ul id="{{ nav_id }}" class="usa-nav__submenu ocdo-submenu">
             {% for subnav_item in nav_item.children %}
