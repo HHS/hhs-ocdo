@@ -90,9 +90,9 @@ primary_navigation:
   - name: About
     children: 
       - name: About OCDO
-        url: /about-ocdo/
+        url: /about/about-ocdo/
       - name: Our Team
-        url: /our-team/
+        url: /about/our-team/
 
 # secondary_navigation:
 #   - name: COVID Data Hub
