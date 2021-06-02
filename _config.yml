@@ -87,8 +87,6 @@ primary_navigation:
         url: /operations/data-initiatives/
       - name: Governance
         url: /operations/governance/
-  - name: Blog
-    url: https://healthdata.gov/browse?category=Blog&sortBy=last_modified&utf8=%E2%9C%93
   - name: About
     url: /about/
 
