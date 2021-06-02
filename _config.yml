@@ -88,7 +88,11 @@ primary_navigation:
       - name: Governance
         url: /operations/governance/
   - name: About
-    url: /about/
+    children: 
+      - name: About OCDO
+        url: /about-ocdo/
+      - name: Our Team
+        url: /our-team/
 
 # secondary_navigation:
 #   - name: COVID Data Hub

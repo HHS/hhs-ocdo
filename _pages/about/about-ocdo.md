@@ -1,8 +1,14 @@
 ---
 title: About OCDO
-layout: about
-sidenav: false
+layout: page
+sidenav: true
+anchors:
+  - name: Vision
+  - name: Mission
+  - name: Core Values
 ---
+
+# About OCDO
 
 ## Vision
 We aspire to advance the well-being of all Americans through the streamlined, secure, and systematic use of data. 
