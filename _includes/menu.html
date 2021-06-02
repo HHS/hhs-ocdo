@@ -11,20 +11,20 @@ where we provide an easy way to manage your navigation system
   <nav role="navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">{% asset close.svg alt="close" %}</button>
-      <ul class="usa-nav__primary usa-accordion ocdo-primarymenu">
+      <ul class="usa-nav__primary usa-accordion">
         {% for nav_item in include.primary_navigation %}
         {% unless nav_item.children %}
         {% assign basedir = page.url | remove_first: '/' | split: '/' | first | lstrip %}
         {% assign linkdir = nav_item.url | replace: "/", "" | lstrip %}
         {% assign droplink = nav_item.name | downcase | lstrip %}
-        <li class="usa-nav__primary-item">
+        <li class="usa-nav__primary-item ocdo-primarymenu">
           <a class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
             href="{{ nav_item.url | prepend: site.baseurl}}"><span>{{ nav_item.name }}</span></a>
         </li>
         {% else %}
         {% assign nav_id = 'primary-nav-' | append: forloop.index %}
         {% assign droplink = nav_item.name | downcase | lstrip %}
-        <li class="usa-nav__primary-item">
+        <li class="usa-nav__primary-item ocdo-primarymenu">
           <button class="usa-accordion__button usa-nav__link{% if basedir == droplink %} usa-current{% endif %}" aria-expanded="false"
             aria-controls="{{ nav_id }}"><span>{{ nav_item.name }}</span></button>
           <ul id="{{ nav_id }}" class="usa-nav__submenu ocdo-submenu">
