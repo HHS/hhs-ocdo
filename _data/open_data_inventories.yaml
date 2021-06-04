@@ -1,6 +1,6 @@
-- name: Healthdata.gov
+- name: HealthData.gov
   url: https://healthdata.gov/
-  description: Healthdata.gov is dedicated to making data discoverable and making valuable government data available to the public in the hopes of better health outcomes for all.
+  description: HealthData.gov is dedicated to making data discoverable and making valuable government data available to the public in the hopes of better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
   thumb_url: healthdata.jpg
   tags:
@@ -17,6 +17,14 @@
     - Public Health
     - Health Policy
 
+- name: Data.CDC.gov
+  url: https://data.cdc.gov/
+  description: Data.CDC.gov catalogs numerous types of data covering 21 categories, including, smoking and tobacco use; injury and violence; and disability and health. Data are publicly available.
+  publisher: Centers for Disease Control and Prevention (CDC)
+  thumb_url: data-cdc.jpg
+  tags:
+    - Open Data
+
 - name: Open FDA
   url: https://open.fda.gov/
   description: Open FDA is a web-based API for querying data from FDA reporting systems, for example the FDA Adverse Events Reporting System (FAERS). Data sets are also downloadable and are derived from FDA reporting systems. The source code for the API is open access.
@@ -25,11 +33,3 @@
   tags:
     - Medical Device
     - Food Safety
-
-- name: Data.CDC.gov
-  url: https://data.cdc.gov/
-  description: Data.CDC.gov catalogs numerous types of data covering 21 categories, including, smoking and tobacco use; injury and violence; and disability and health. Data are publicly available.
-  publisher: Centers for Disease Control and Prevention (CDC)
-  thumb_url: data-cdc.jpg
-  tags:
-    - Open Data

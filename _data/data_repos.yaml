@@ -1,4 +1,4 @@
-- name: Health Services and Sciences Research Resources database
+- name: Health Services and Sciences Research Resources Database
   url: https://hsrr.nlm.nih.gov/
   description: The Health Services and Sciences Research Resources database is designed for health care researchers and health sciences librarians. The database does not contain actual resources but does include links to PubMed and URLs with additional information.
   publisher: National Intitutes of Health (NIH)
@@ -17,7 +17,7 @@
 - name: CMS Data Navigator
   url: https://dnav.cms.gov/
   description: The CMS Data Navigator is an interactive search tool for CMS data assets including reports, publications, interactive tools, fact sheets, and other types of data. The user can search for data assets by program, setting/type of care, geography or document type. 
-  publisher: Center for Medicare & Medicaid Services (CMS)
+  publisher: Centers for Medicare & Medicaid Services (CMS)
   tags: 
     - Geographical
     - Public Health
@@ -34,7 +34,7 @@
 - name: Portal to Medicare
   url: https://data.medicare.gov/
   description: Portal to Medicare is maintained by the Centers for Medicare and Medicaid Services to compare data for hospitals, nursing homes, physicians, home health care, dialysis facility, hospice, rehabilitation facility, long-term care, and suppliers.
-  publisher: Center for Medicare & Medicaid Services (CMS)
+  publisher: Centers for Medicare & Medicaid Services (CMS)
   tags:
     - Providers
     - Public Health
@@ -43,7 +43,7 @@
 - name: Healthcare Cost and Utilization Project
   url: https://www.hcup-us.ahrq.gov/
   description: The Healthcare Cost and Utilization Project (HCUP) consists of health care databases and related software tools and products developed through Federal-State-Industry partnerships and sponsored by the Agency for Healthcare Research and Quality. The intended audience is health services researchers and decision makers.
-  publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  publisher: Agency for Healthcare Research and Quality (AHRQ)
   tags:
     - Quality
     - Researchers
@@ -51,7 +51,7 @@
 - name: National Data Archive on Child Abuse and Neglect
   url: https://www.ndacan.acf.hhs.gov/datasets/datasets-list.cfm
   description: The National Data Archive on Child Abuse and Neglect (NDACAN) is an inventory of datasets obtained from researchers and data collection efforts in the field of child abuse and neglect. The inventory is housed at Cornell University and datasets may be requested by researchers.
-  publisher: The Children's Bureau (CB)
+  publisher: The Administration for Children and Families (ACF)
   tags:
     - Children
     - Population Health
@@ -59,7 +59,7 @@
 - name: Research Data Assistance Center
   url: https://www.resdac.org/
   description: The Research Data Assistance Center provides academic, non-profit, for-profit and government researchers interested in the CMS data.
-  publisher: Research Data Assistance Center (ResDAC)
+  publisher: Centers for Medicare & Medicaid Services (CMS)
   tags:
     - Medicare
     - Medicaid
@@ -68,7 +68,7 @@
 - name: DCCPS Public Datasets & Analyses
   url: https://cancercontrol.cancer.gov/cr-dataset.html
   description: The DCCPS Public Datasets & Analyses inventory is a directory of data sources about cancer research and epidemiology, cancer survival, health services, and behavioral sciences. The Division of Cancer Control and Population Sciences created this data resource for the public and research community.
-  publisher: NIH Division of Cancer Control and Population Sciences
+  publisher: National Intitutes of Health (NIH)
   tags:
     - Cancer
     - Behavioral Science

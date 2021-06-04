@@ -24,7 +24,7 @@
 - name: HCUP Infographics
   url: https://www.hcup-us.ahrq.gov/reports/infographics.jsp
   description: The Healthcare Cost and Utilization Project (HCUP) publishes HCUP Infographics, a visual representation of data found in HCUP Statistical Briefs and HCUP Findings-At-A-Glance.
-  publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  publisher: Agency for Healthcare Research and Quality (AHRQ)
   tags:
     - Health Costs
     - Research
@@ -58,7 +58,7 @@
 - name: AHRQ Data Visualizations
   url: https://www.ahrq.gov/data/visualizations/index.html
   description: The Agency for Healthcare Research and Quality) shares infographics, visualizations, and a state snapshot tool to make sense of health care quality and disparities that may exist.
-  publisher: The Agency for Healthcare Research and Quality (AHRQ)
+  publisher: Agency for Healthcare Research and Quality (AHRQ)
   tags:
     - Health Disparities
     - Social Determinants of Health

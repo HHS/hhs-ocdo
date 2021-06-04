@@ -19,7 +19,7 @@
 - name: Covid Data Tracker
   url: https://covid.cdc.gov/covid-data-tracker/
   description: Covid Data Tracker presents maps, charts, and data provided by the CDC.
-  publisher: Center for Disease Control and Prevention (CDC)
+  publisher: Centers for Disease Control and Prevention (CDC)
   thumb_url: cdc-covid-tracker.jpg
   tags:
     - COVID-19
@@ -28,7 +28,7 @@
 - name: COVID-19 Nursing Home Data
   url: https://data.cms.gov/stories/s/bkwz-xpvg
   description: COVID-19 Nursing Home Data includes data reported by nursing homes to the CDC’s National Healthcare Safety Network (NHSN) system COVID-19 Long Term Care Facility Module.
-  publisher: Center for Medicare & Medicaid Services (CMS)
+  publisher: Centers for Medicare & Medicaid Services (CMS)
   thumb_url: cms-covid.jpg
   tags:
     - COVID-19
