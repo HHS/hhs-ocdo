@@ -20,16 +20,23 @@ In support of HHS’s mission to enhance the health and well-being of all Americ
 - Providing stewardship of HHS data collection, cataloging, and records management; and
 - Maximizing the nation’s return on investment through the systematic management of data as a strategic asset. 
 
+## CDO Goals
+- Make data accessible to everyone by creating and championing the sharing of datasets that are findable, accessible, interoperable, and reusable (FAIR).
+- Establish data policies and governance to promote secure data sharing and use.
+- Educate the HHS workforce on data sharing best practices and technology to create a data driven culture.
+- Provide tools to facilitate the integration of HHS data to optimize interoperability and lower costs.
+
+
 ## Core Values
-- Ethical Use
-  - We advocate for the ethical use of data to ensure the privacy, security and integrity of the data and its contributors.
-- Transparency
-  - We are clear about what we collect, why we collect it, how we collect it, and what we do with it, to promote trust in the data, processes, and organization.
-- Efficiency
-  - We promote streamlined, secure, and systematic uses of data that help accomplish more.
-- Accountability
-  - We stand by our products and services  to deliver quality and mission value.
-- Education
-  - We provide the training and education necessary for data users and stewards to understand and use data safely.
-- Collaboration 
-  - We work together across divisions and organizations enable data accessibility and potential.
+Ethical Use
+- We advocate for the ethical use of data to ensure the privacy, security and integrity of the data and its contributors.
+Transparency
+- We are clear about what we collect, why we collect it, how we collect it, and what we do with it, to promote trust in the data, processes, and organization.
+Efficiency
+- We promote streamlined, secure, and systematic uses of data that help accomplish more.
+Accountability
+- We stand by our products and services  to deliver quality and mission value.
+Education
+- We provide the training and education necessary for data users and stewards to understand and use data safely.
+Collaboration 
+- We work together across divisions and organizations enable data accessibility and potential.
