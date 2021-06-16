@@ -30,13 +30,18 @@ In support of HHS’s mission to enhance the health and well-being of all Americ
 ## Core Values
 Ethical Use
 - We advocate for the ethical use of data to ensure the privacy, security and integrity of the data and its contributors.
+
 Transparency
 - We are clear about what we collect, why we collect it, how we collect it, and what we do with it, to promote trust in the data, processes, and organization.
+
 Efficiency
 - We promote streamlined, secure, and systematic uses of data that help accomplish more.
+
 Accountability
 - We stand by our products and services  to deliver quality and mission value.
+
 Education
 - We provide the training and education necessary for data users and stewards to understand and use data safely.
+
 Collaboration 
 - We work together across divisions and organizations enable data accessibility and potential.
