@@ -13,12 +13,12 @@ We are a team of innovators within the U.S. Department of Health and Human Servi
 If you are interested in working with us or learning more about what we do, contact us at idealab@hhs.gov.
 
 ## Vision
-Data of the people, by the people, for the people.
+<b>People first, purpose always:</b> catalyzing healthy futures for all through science-driven innovation. 
 
 ## Mission
-Responsibly and ethically enable **data-driven health and human services** to maximize the nation’s return on investment in its data and benefit the American public.
+The mission of InnovationX is to partner with all sectors of society to tackle our nation's most challenging health issues and deliver evidence-based, data-driven solutions. 
 
 ## Strategy
-In 2 years, the OCDO will build and implement a unified framework for data sharing and use, enabling HHS program and mission delivery through coalition building and enterprise solutions.
+Prioritizing people first with human-centered design, InnovationX thinks big with the American people. We enhance the nation's health and well-being with the latest science, emerging technologies, and data-driven, open innovation. Our partnerships drive transformation and scale real-world impact. 
 
 ## Core Values
