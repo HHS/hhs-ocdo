@@ -130,7 +130,7 @@ Previous HHS Roundtables include:
 - [Roundtable on Data Sharing Policies, Data-Driven Solutions, and the Opioid Crisis](http://reports.opendataenterprise.org/HHS-Opioid-Roundtable-Report.pdf)
 July 2018
 
-- [Lyme Innovation Roundtable](http://reports.opendataenterprise.org/Lyme Innovation Roundtable Report.pdf)
+- [Lyme Innovation Roundtable](http://reports.opendataenterprise.org/Lyme%20Innovation%20Roundtable%20Report.pdf)
 December 2018
 
 - [Roundtable on Sharing and Utilizing Health Data for AI Applications](https://healthdatasharing.org/wp-content/uploads/2020/07/RT1-AI-Summary-Report-FINAL-2020.07.28.pdf)
