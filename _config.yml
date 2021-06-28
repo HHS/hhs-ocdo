@@ -83,8 +83,8 @@ primary_navigation:
         url: /resources/visualizations/
   - name: Operations
     children:
-      - name: Data Initiatives
-        url: /operations/data-initiatives/
+      - name: OCDO Initiatives
+        url: /operations/ocdo-initiatives/
       - name: Governance
         url: /operations/governance/
   - name: About

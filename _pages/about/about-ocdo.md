@@ -20,7 +20,7 @@ In support of HHS’s mission to enhance the health and well-being of all Americ
 - Providing stewardship of HHS data collection, cataloging, and records management; and
 - Maximizing the nation’s return on investment through the systematic management of data as a strategic asset. 
 
-## CDO Goals
+## Goals
 - Make data accessible to everyone by creating and championing the sharing of datasets that are findable, accessible, interoperable, and reusable (FAIR).
 - Establish data policies and governance to promote secure data sharing and use.
 - Educate the HHS workforce on data sharing best practices and technology to create a data driven culture.

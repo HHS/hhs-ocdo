@@ -1,5 +1,5 @@
 ---
-title: Data Initiatives
+title: OCDO Initiatives
 layout: page
 sidenav: true
 anchors:
@@ -18,7 +18,7 @@ OCDO is fulfilling the legal obligations of Title II, Section 3520. Functions in
   - Encourage collaborative approaches on improving data use.
   - Improve infrastructure to reduce barriers that inhibit data asset accessibility. 
 
-OCDO’s work addresses the HHS Information Technology Strategic Plan Goal #3: Enhance Data and Interoperability. Establish data as a strategic asset by developing data and interoperability policies, ethics, strategies, and standards that default to sharing and discovery in order to increase data-driven innovation across HHS.
+OCDO’s work addresses the HHS Information Technology Strategic Plan **Goal #3: Enhance Data and Interoperability**. *Establish data as a strategic asset by developing data and interoperability policies, ethics, strategies, and standards that default to sharing and discovery in order to increase data-driven innovation across HHS*.
   - 3.1 Standardize data sharing.
   - 3.2 Create data policies.
   - 3.3 Cultivate data sharing culture.
