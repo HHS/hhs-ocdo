@@ -17,7 +17,7 @@ The Kidney Innovation Accelerator (KidneyX) is a public-private partnership betw
 
 An estimated 850 million people worldwide are living with kidney disease. [KidneyX](https://www.kidneyx.org/) seeks to improve their lives by accelerating the development of drugs, devices, biologics, and other therapies across the spectrum of kidney care. KidneyX will 'de-risk' innovation by streamlining processes, reducing regulatory barriers, and modernizing the way everyone pays for treatment. By inviting innovation from outside the government, KidneyX will stimulate and accelerate innovation through a series of cash prize competitions.
 
-[Learn more and sign up for updates at KidneyX.org.](http://www.kidneyx.org/).
+[Learn more and sign up for updates at KidneyX.org](http://www.kidneyx.org/).
 
 ### Why Kidney Care Innovation Matters
 
