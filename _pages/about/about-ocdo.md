@@ -21,11 +21,10 @@ In support of HHS’s mission to enhance the health and well-being of all Americ
 - Maximizing the nation’s return on investment through the systematic management of data as a strategic asset. 
 
 ## Goals
-- Make data accessible to everyone by creating and championing the sharing of datasets that are findable, accessible, interoperable, and reusable (FAIR).
-- Establish data policies and governance to promote secure data sharing and use.
-- Educate the HHS workforce on data sharing best practices and technology to create a data driven culture.
-- Provide tools to facilitate the integration of HHS data to optimize interoperability and lower costs.
-
+<p class="goals">Make data accessible to everyone by creating and championing the sharing of datasets that are findable, accessible, interoperable, and reusable (FAIR).</p>
+<p class="goals">Establish data policies and governance to promote secure data sharing and use.</p>
+<p class="goals">Educate the HHS workforce on data sharing best practices and technology to create a data driven culture.</p>
+<p class="goals">Provide tools to facilitate the integration of HHS data to optimize interoperability and lower costs.</p>
 
 ## Core Values
 Ethical Use
