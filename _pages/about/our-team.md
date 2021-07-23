@@ -9,6 +9,4 @@ anchors:
 
 # Our Team
 
-## Team Members
-
 {% include bios.html %}
