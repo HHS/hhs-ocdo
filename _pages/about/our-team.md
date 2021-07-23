@@ -2,7 +2,7 @@
 title: Our Team
 layout: page
 sidenav: true
-datafile: data_repos
+datafile: bios
 anchors:
   - name: Team Members
 ---
