@@ -18,3 +18,7 @@
 - name: Jack Bastian
   description: is a Data Engineer at the U.S. Department of Health and Human Services within the Office of the Chief Data Officer. He joined HHS to support a data-driven response to the COVID-19 pandemic. Jack manages, analyzes and publishes data products related to COVID-19 hospitalizations, testing and public health policy. His work at HHS connects with a deep passion for mission-driven work and communicating complex problems to diverse audiences. Jack holds a Master’s of Social Science degree from UCLA and spends any free time he has playing piano.
   thumb_url: jack_headshot.jpg
+
+- name: Alec Blase
+  description: is an IT Specialist in the Office of the Chief Data Officer at the U.S. Department of Health and Human Services. Previously he was a Data Analytics intern and supported the Department's response to COVID-19 through open-source data sharing. In his current role, Alec is responsible for data quality analysis vital to providing public health officials and the American public with accessible and reliable data. Alec holds a Bachelor of Science in Statistics and Data Science from the University of California, at Santa Barbara. When he's not managing hospital data reports, you can find him playing with his dog Bentley or cheering for the Oakland Athletics.
+  thumb_url: alec_headshot.jpg
