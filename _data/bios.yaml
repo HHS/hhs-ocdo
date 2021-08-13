@@ -34,3 +34,7 @@
 - name: Alec Blase
   description: is an IT Specialist in the Office of the Chief Data Officer at the U.S. Department of Health and Human Services. Previously he was a Data Analytics intern and supported the Department's response to COVID-19 through open-source data sharing. In his current role, Alec is responsible for data quality analysis vital to providing public health officials and the American public with accessible and reliable data. Alec holds a Bachelor of Science in Statistics and Data Science from the University of California, at Santa Barbara. When he's not managing hospital data reports, you can find him playing with his dog Bentley or cheering for the Oakland Athletics.
   thumb_url: alec_headshot.jpg
+
+- name: Apostolos Stamenos
+  description: is an IT Specialist in the Office of the Chief Data Officer at the U.S. Department of Health and Human Services. In his current role, he oversees IT resources and implements data-driven solutions to address the health needs of the American public. Through his work, he aspires to make the Federal Government’s use of public health data more efficient and transparent. Apostolos holds a B.S. in Economics from The Pennsylvania State University and is currently pursuing a Master’s of Statistics at North Carolina State University. In his free time, he enjoys reading, listening to music, and knitting.
+  thumb_url: apostolos_headshot.jpg
