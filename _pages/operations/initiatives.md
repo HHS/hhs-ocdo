@@ -1,5 +1,5 @@
 ---
-title: OCDO Initiatives
+title: Initiatives
 layout: page
 sidenav: true
 anchors:
@@ -7,7 +7,7 @@ anchors:
   - name: Data Skills
 ---
 
-# OCDO Initiatives
+# Initiatives
 
 OCDO is following the direction set in the [Federal Data Strategy](https://strategy.data.gov/), which includes advancements in two key areas.
 
