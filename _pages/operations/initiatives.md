@@ -26,7 +26,7 @@ OCDO’s work addresses the HHS Information Technology Strategic Plan **Goal #3:
 
 ## Data Maturity
 
-HHS OCDO is following the [CMMI Data Management Maturity Model](https://cmmiinstitute.com/data-management-maturity), an industry standard, to serve as the foundation for building and enhancing the Department’s data management capabilities.
+HHS OCDO is following an industry standard [Management Maturity Model](https://cmmiinstitute.com/data-management-maturity), to serve as the foundation for building and enhancing the Department’s data management capabilities.
 
 ## Data Skills
 
