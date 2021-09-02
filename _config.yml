@@ -99,6 +99,8 @@ primary_navigation:
 #     url: "https://www.hhs.gov/coronavirus/index.html"
 #   - name: Healthdata.gov
 #     url: "https://healthdata.gov/"
+#   - name: HHS Connect
+#     url: "/connect"
 
 # Search.gov configuration
 #
