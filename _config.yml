@@ -95,12 +95,10 @@ primary_navigation:
         url: /about/our-team/
 
 # secondary_navigation:
-#   - name: COVID-19 Data Hub
+#   - name: HHS Connect
 #     url: "https://www.hhs.gov/coronavirus/index.html"
 #   - name: Healthdata.gov
 #     url: "https://healthdata.gov/"
-#   - name: HHS Connect
-#     url: "/connect"
 
 # Search.gov configuration
 #
