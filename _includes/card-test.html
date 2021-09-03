@@ -1,37 +1,17 @@
-<h3 class="site-preview-heading">Default card</h3>
 <ul class="usa-card-group">
+  {% for item in site.data.connect_links %}
   <li class="tablet:grid-col-4 usa-card">
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading">Card</h2>
+        <h2 class="usa-card__heading">{{item.title}}</h2>
       </header>
       <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae. Excepturi nobis
-          dolores molestias! Quas quisquam a officia eos.
-        </p>
+        <p>{{item.description}}</p>
       </div>
       <div class="usa-card__footer">
-        <button class="usa-button">Visit Florida Keys</button>
+        <button class="usa-button" href="{{item.button_url}}">{{item.button_text}}</button>
       </div>
     </div>
-  </li>
-  <li class="tablet:grid-col-4 usa-card">
-    <div class="usa-card__container">
-      <header class="usa-card__header">
-        <h2 class="usa-card__heading">Card</h2>
-      </header>
-      <div class="usa-card__body">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis earum
-          tenetur quo cupiditate, eaque qui officia recusandae. Excepturi nobis
-          dolores molestias! Quas quisquam a officia eos.
-        </p>
-      </div>
-      <div class="usa-card__footer">
-        <button class="usa-button">Visit Florida Keys</button>
-      </div>
-    </div>
-  </li>
+  <li>
+  {% endfor %}
 <ul>
