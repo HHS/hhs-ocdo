@@ -8,7 +8,7 @@
   button_text: Sign-in
   button__url: https://qa-datahhsgov.cs32.force.com/connect/s/login/?ec=302&startURL=%2Fconnect%2Fs%2F
 
-  - title: HHS Connect Admin Sign In
+- title: HHS Connect Admin Sign In
   description: Navigate to this link to sign in to the admin portal for HHS Connect.
   button_text: Sign-in
   button__url: https://qa-datahhsgov.cs32.force.com/connect/s/login/?ec=302&startURL=%2Fconnect%2Fs%2F
