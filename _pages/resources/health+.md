@@ -21,11 +21,11 @@ Health+ (“health plus”) is an ongoing series of research and healthathon cyc
 
 ## Design, Discovery & Definition
 
-We will conduct landscape research focused on developing deep understanding of the challenge, the audience, and the vision set forth by executive stakeholders and intra-agency partnerships. By utilizing Human Centered Design (HCD) methods, conducting problem validation with stakeholders, identifying salient user stories, and forming of personas and journey maps, we can inform the round table vision and suggest solutions for those affected by critical health issues. Together, we will work hand-in-hand to execute a roundtable with identified stakeholders, match emerging themes to data sets, and prepare artifacts necessary so that a product team is able to execute different strategies during the rapid prototyping phase.
+We conduct landscape research focused on developing a deep understanding of the challenge, the audience, and the vision set forth by executive stakeholders and intra-agency partnerships. By utilizing Human Centered Design (HCD) methods, conducting problem validation with stakeholders, identifying salient user stories, and forming of personas and journey maps, we can inform the round table vision and suggest solutions for those affected by critical health issues. Together, we work hand-in-hand to execute a roundtable with identified stakeholders, match emerging themes to data sets, and prepare artifacts necessary so that a product team is able to execute different strategies during the rapid prototyping phase.
 
 ## Rapid Prototyping
 
-This phase includes engaging with patients, subject matter experts, and policy makers in a healthathon, in which participants prototype creative solutions for specific audiences, problems, and opportunities identified by the roundtable. Healthathon outputs may include policy initiatives, technical products, white papers, and more.
+This phase includes engaging with patients, subject matter experts, and policy makers in a healthathon, in which participants prototype creative solutions for specific audiences, problems, and opportunities identified by the roundtable. Health-a-thon outputs may include policy initiatives, technical products, white papers, and more.
 
 ## Transition
 

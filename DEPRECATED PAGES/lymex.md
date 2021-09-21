@@ -1,14 +1,10 @@
 ---
-title: Drivers of Inequity
+title: Lyme Innovation and LymeX Innovation Accelerator
 layout: page
 sidenav: true
 ---
 
-# Drivers of Inequity
-
-## Social Determinants of Health
-
-The Drivers of Inequity strategy is focused on achieving health equity by directly tackling the root causes of health disparities by addressing major underlying factors: systemic discrimination and poverty.
+# Lyme Innovation and LymeX Innovation Accelerator
 
 Social Determinants of Health (SdoH) tackles the longest standing and costliest problems in health. We use data-driven and innovation methods to address root causes of health disparities and identify systemic discrimination and poverty related to health population. 
 

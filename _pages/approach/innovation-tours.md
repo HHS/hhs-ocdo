@@ -10,8 +10,6 @@ anchors:
   - name: Innovators in Residence
 ---
 
-
-
 # Innovation "Tours of Duty"
 
 Tapping into outside talent to solve complex problems in health and the delivery of human services. Join us to serve as an Entrepreneur-in-Residence (EIR)!
@@ -24,7 +22,7 @@ Tapping into outside talent to solve complex problems in health and the delivery
 
 How would it feel to know that you are applying your excellent skills towards making an impact in the healthcare space and serving your country? Join us for a 13-month tour of duty.
 
-join us for a 13-month tour of duty. You’ll be able to:
+Join us for a 13-month tour of duty. You’ll be able to:
 
 - Use Your Powers For Good. It’s an opportunity to use your talents and skills to benefit the public good.
 - Challenge Yourself. You will work on some of the most pressing challenges in health, health care, and the delivery of human services.
@@ -60,7 +58,7 @@ Step 4 – After an internal shortlisting of qualified candidates, the HHS staff
 
 ### How Do I Apply?
 
-Sign up for our mailing list to find out about new EIR positions as they become available: https://cloud.connect.hhs.gov/IdeaLab
+[Sign up for our mailing list](https://cloud.connect.hhs.gov/IdeaLab) to find out about new EIR positions as they become available.
 
 ## Submit a Project
 
@@ -130,18 +128,18 @@ Here’s our [project evaluation criteria - PDF](https://www.hhs.gov/sites/defau
 
 ## FAQs
 
-### We Also Work With Non-Profits to Bring New Ideas And Expertise Into The Department
+### We Also Work With Non-Profits
 
 Not-for-profit organizations can sponsor a paid fellowship to be filled by an individual with a background in entrepreneurship and innovation. These “Innovators-in-Residence” leverage the resources and expertise of both organizations (HHS and the sponsoring organization) during their appointment, to tackle specific challenges in health and the delivery of human services.
 
 The IDEA Lab works with the Innovator-In-Residence and his or her supervisor (the sponsor), and designated HHS mentors to develop a project concept and establish project goals that are mutually agreed upon between HHS and the sponsor.
 
 Innovators-in-Residence are employees of the sponsor organization and participate in government activities through the Intergovernmental Personnel Act (IPA). The IPA enables the exchange of talent between government and organizations for a wide array of practices. If an organization has not previously participated in an IPA employee exchange with HHS, an application is submitted and reviewed for approval before the project is started.
-If your organization is interested in becoming a sponsoring organization or has additional questions regarding eligibility, please email idealab@hhs.gov.
+If your organization is interested in becoming a sponsoring organization or has additional questions regarding eligibility, please email [idealab@hhs.gov](idealab@hhs.gov).
 
 ### Contact Information
 
-Will Yang, Interim Program Director –  Will.Yang@hhs.gov
+Will Yang, Interim Program Director –  [Will.Yang@hhs.gov](will.yang@hhs.gov)
 
 ### EIRs in the news
 
@@ -152,6 +150,7 @@ Will Yang, Interim Program Director –  Will.Yang@hhs.gov
 - [“Government Infecting Itself with Entrepreneurial Spirit”](http://techonomy.com/2015/07/government-infecting-itself-with-entrepreneurial-spirit/) by Techonomy
 - [“HHS Adds New Class of Entrepreneurs-in-Residence”](https://www.washingtonpost.com/business/on-it/hhs-adds-new-class-of-entrepreneurs-in-residence/2014/12/05/92a4cfd6-7a71-11e4-9a27-6fdbc612bff8_story.html) by the Washington Post
 - [“Next Wave of Entrepreneurs Arrives at HHS to Help Tackle Major Healthcare Challenges”](http://www.openhealthnews.com/content/next-wave-entrepreneurs-arrives-hhs-help-tackle-major-healthcare-challenges) by Open Health News
+
 
 ### Frequently Asked Questions
 

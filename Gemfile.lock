@@ -124,7 +124,6 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2020.5)
       tzinfo (>= 1.0.0)
-    wdm (0.1.1)
     yell (2.2.2)
 
 PLATFORMS
@@ -143,10 +142,9 @@ DEPENDENCIES
   kramdown-parser-gfm (~> 1.1.0)
   sprockets (~> 3.7)
   tzinfo-data
-  wdm (~> 0.1.0)
 
 RUBY VERSION
    ruby 2.6.6p146
 
 BUNDLED WITH
-   1.17.2
+   2.2.26

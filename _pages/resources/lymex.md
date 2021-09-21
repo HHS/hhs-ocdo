@@ -1,20 +1,42 @@
 ---
-title: Lyme Innovation and LymeX Innovation Accelerator
+title: LymeX
 layout: page
 sidenav: true
+anchors:
+- name: Purpose
+- name: Goals
 ---
 
-# Lyme Innovation and LymeX Innovation Accelerator
+# LymeX and LymeX Accelerator
+[Follow us on Twitter!](https://twitter.com/Lyme_X)
 
-Social Determinants of Health (SdoH) tackles the longest standing and costliest problems in health. We use data-driven and innovation methods to address root causes of health disparities and identify systemic discrimination and poverty related to health population. 
+## Purpose
+The Lyme Innovation initiative sees patients as more than the targets for new prevention, diagnostic, and treatment tools and techniques to address Lyme disease and other tick-borne illnesses. Patients are the driving forces of innovation, and their lived experience is our roadmap.
+Lyme Innovation uses strategic public-private partnerships to accelerate patient-centered advancements in how we address Lyme and other tick-borne diseases. By supporting interdisciplinary collaborations that reflect the initiative’s core values, Lyme Innovation will:
+- Build commitment to data-driven, patient-centered innovations that improve outcomes.
+- Identify ways to better collect and share data while raising awareness of tick-borne illnesses.
+- Accelerate discovery of next-gen diagnostic tools and technologies.
+- Lower barriers across all phases of development, testing, and implementation.
 
-The Drivers of Inequity strategy is focused on achieving health equity by directly tackling the root causes of health disparities by addressing major underlying factors: systemic discrimination and poverty.
+## LymeX
+HHS launched the LymeX Innovation Accelerator (LymeX), an innovation partnership with the Steven & Alexandra Cohen Foundation. LymeX is modeled after the success and methods of the KidneyX Innovation Accelerator, a partnership between HHS and the American Society of Nephrology that includes kidney-care patients in every step of its innovation process.
 
-- Medical disparities refer to genetic predispositions, clinical diagnoses, and direct care concerns of an individual or population. 
-- Health related social needs focus on social and economic factors, including insurance coverage, transportation and similar factors that affect healthcare delivery.
-- Interpersonal health factors refer to the social and interpersonal aspects of an individual or groups’ lives that impact health status.
-- Structural determinants of health focus on the economic and environmental factors that impact health and health behaviors.
+### Mission
+LymeX will accelerate Lyme Innovation progress and strategically advance tick-borne-disease solutions in direct collaboration with Lyme patients, patient advocates, and diverse stakeholders across academia, nonprofits, industry, and government.
 
-We harness the power of data to address inequity because data represents the foundation for advancement in meaningful root cause solutions to the Drivers of Equity. We deploy resources to ensure equal opportunity for all Americans. Financing and funding must be directed towards the actual root causes of disparities to sustainably attain equity. We also create a culture of collaboration to share successes. Collaboration and sharing risk and success will engender buy-in that prevents leaving anyone behind.
+## Goals
 
-Achieving equity comes with an end-to-end consideration of ethics and responsibility. For data and solutions, equity will mean balancing privacy and transparency in a way that puts people first. Ultimately, our goal is to rebuild and repair mistrust in the communities that have been most marginalized.
+### Engage Stakeholders to Facilitate Patient-Centered Innovations
+By including patients and stakeholders in every step of identifying, developing, and implementing advancements in Lyme disease care, LymeX fosters innovations that can deliver transformative impact on patients' quality of life. LymeX is exploring how collaborative partnership models can best support stakeholder engagement. For example, the Health+ approach pinpoints challenges from the patient's point of view to identify and map development of new tools and technological solutions.
+In close collaboration with stakeholders, LymeX aims to:
+- Build capacity for effective, efficient communication among patients, stakeholders, and HHS
+- Identify common challenges in patient and healthcare provider experiences
+- Hold a roundtable to outline possible improvements and solutions
+- Make plans for quickly developing and testing solution prototypes
+
+### Foster Breakthroughs in Education and Awareness
+LymeX supports innovative health education and public awareness initiatives that focus on tick-borne disease prevention and help clinicians, patients, and caregivers benefit from the latest scientific findings.
+
+### Accelerate Development of Next-Gen Diagnostics
+LymeX prize challenges encourage rapid, cross-sector, patient-centered diagnostic innovations. These challenges will drive creators, industries, and academia toward breakthroughs in more accurate Lyme diagnosis, helping make next-gen diagnostics available more quickly.
+
