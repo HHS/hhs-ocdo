@@ -4,8 +4,9 @@ layout: page
 sidenav: true
 anchors:
   - name: Purpose
-  - name: Lyme Innovation: Real-World Impact
+  - name: Lyme Innovation Real-World Impact
   - name: LymeX
+  - name: Core Values
 ---
 
 # Lyme Innovation
@@ -80,7 +81,7 @@ For up-to-date information, statistics, and guidance on Lyme disease and related
 - [Lyme Innovation Roundtable](https://public3.pagefreezer.com/content/HHS.gov/01-01-2021T09:10/https://www.hhs.gov/cto/blog/2018/12/19/lyme-innovation-roundtable.html) (December 19, 2018)
 - [The HHS Office of the CTO Announces a "Lyme Innovation" Initiative](https://public3.pagefreezer.com/content/HHS.gov/01-01-2021T09:10/https://www.hhs.gov/cto/blog/2018/11/20/the-hhs-office-of-the-cto-announces-a-lyme-innovation-initiative.html) (November 20, 2018)
 
-## Lyme Innovation: Real-World Impact
+## Lyme Innovation Real-World Impact
 
 This page documents Lyme Innovation's success story as it continues to unfold. Read on to see how our activities are making a positive real-world impact on Lyme disease and other tick-borne illnesses. Check back often for links to reports, apps, games, blog posts, videos, guides, and other material related to Lyme Innovation's ongoing work.
 

@@ -76,44 +76,47 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-    children:
-      - name: About Us
-        url: /about/
-      - name: Our Team
-        url: /ourteam/
-      - name: Mission Statement and Core Values
-        url: /mission/
-      - name: Current Portfolio
-        url: /currentportfolio/
   - name: Current Portfolio
     children:
-      - name: COVID-19 Data-Driven Innovation
+      - name: COVID-19
         url: /resources/covid19/
-      - name: Lyme Innovation and LymeX Innovation Accelerator
-        url: /resources/lymex/
-      - name: KidneyX
-        url: /resources/kidneyx/
-      - name: Health+
-        url: /resources/health+/
       - name: Drivers of Inequity
         url: /resources/socialdeterminants/
-  - name: Approach
-    url: /operations/
-    children:
-      - name: Human-Centered Design
+      - name: Health+
         url: /resources/health+/
+      - name: KidneyX
+        url: /resources/kidneyx/
+      - name: LymeX
+        url: /resources/lymex/
+  - name: Approach
+    url: /approach/
+    children:
+      - name: Crowdsourcing & Citizen Science
+        url: /approach/crowdsourcing/
+      - name: Human-Centered Design
+        url: /approach/health+/
       - name: Sprints
-        url: /sprints/
+        url: /approach/sprints/
       - name: Open Innovation
-        url: /operations/
+        url: /approach/operations/
       - name: Partnerships
-        url: /partnerships/
+        url: /approach/partnerships/
       - name: Accelerator Model
-        url: /operations/ignite-accelerator/
+        url: /approach/ignite-accelerator/
       - name: Tours of Duty
-        url: /operations/innovation-tours-of-duty/
+        url: /approach/innovation-tours/
       - name: Innovation/Demo/Startup Days
-        url: /operations/startup-days/
+        url: /approach/startup-days/
+  - name: About
+    children:
+      - name: About InnovationX
+        url: /about/aboutInnovationX/
+      - name: Mission Statement and Core Values
+        url: /about/mission/
+      - name: Our Team
+        url: /about/ourteam/
+      - name: Current Portfolio
+        url: /about/currentportfolio/
   - name: News
     url: /news/
     children:

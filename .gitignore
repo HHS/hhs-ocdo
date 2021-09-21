@@ -4,3 +4,4 @@ _site
 node_modules
 .bundle
 .jekyll-cache/
+_assets/favicons/favicon.ico

@@ -9,7 +9,7 @@ anchors:
   - name: COVID-19 Kidney Care Challenge
 ---
 
-# KidneyX
+# KidneyX and KidneyX Accelerator
 
 [Follow us on Twitter](https://twitter.com/Kidney_X)!
 
