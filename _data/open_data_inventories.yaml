@@ -8,7 +8,7 @@
     - Open Data
 
 - name: HHS Protect Public Data Hub
-  url: https://protect-public.hhs.gov/
+  url: https://public-data-hub-dhhs.hub.arcgis.com/
   description: The HHS Protect Public Data Hub provides high-quality, accessible, and timely information for entrepreneurs, researchers, and policy makers to help drive insights and better health outcomes for all.
   publisher: Department of Health and Human Services (HHS)
   thumb_url: protect-public.png
