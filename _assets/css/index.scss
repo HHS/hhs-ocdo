@@ -64,13 +64,13 @@ p.goals {
 
 // Website title customizations
 .ocdo-logo {
-    width: 50%;
+    width: 100%;
 }
 
-.combine {
-    width: 50%;
-    display: inline;
-}
+.combine{ 
+  display:flex; 
+  width: 50%; 
+} 
 
 // Highlights background
 
