@@ -1,5 +1,6 @@
 ---
-title: Collaborations
+title: About OCDO
+subtitle: Collaborations
 layout: page
 sidenav: true
 anchors:
