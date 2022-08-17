@@ -74,11 +74,20 @@ p.goals {
 } 
 
 //Title banner
-.title {
-  padding: 20px 10px;
-  line-height: 0.75;
-  font-weight: bold;
-  color: #25294d;
+
+.title-back {
+  background-color: #25294d;
+}
+
+.title-section {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.title-list {
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+  font-size: 1.06471rem;
+  line-height: 1.52155;
 }
 
 // Highlights background
