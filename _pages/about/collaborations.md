@@ -1,6 +1,6 @@
 ---
-title: About OCDO
-subtitle: Collaborations
+title: Collaborations
+subtitle: Interoffice projects
 layout: page
 sidenav: true
 anchors:
