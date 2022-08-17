@@ -1,5 +1,6 @@
 ---
 title: About OCDO
+subtitle: What we do
 layout: page
 sidenav: true
 datafile: core-values
