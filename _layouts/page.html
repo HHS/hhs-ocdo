@@ -7,9 +7,9 @@ This template is for a single page that does not have a date associated with it.
 {% endcomment %}
 
 <div id="main-content" class="usa-layout-docs usa-section">
-  {% include title.html %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
+      {% include title.html %}
       {% if page.sidenav == true %}
       {% include sidenav.html %}
       {% endif %}
