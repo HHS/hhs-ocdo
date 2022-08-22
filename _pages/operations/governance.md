@@ -24,4 +24,4 @@ Standards for enterprise adoption are endorsed by the Data Governance Board. The
 
 ## Oversight
 
-The HHS Data Governance Board (DGB) was formed to serve as a collaborative body of Department representatives to coordinate or inspire improvements to data management capabilities. The HHS CDO is the chair of the DGB. The Acting CDO Kevin Duvall presides over monthly meetings. Members represent each operating division.
+The HHS Data Governance Board (DGB) was formed to serve as a collaborative body of Department representatives to coordinate or inspire improvements to data management capabilities. The HHS CDO is the chair of the DGB. The Acting CDO Nikolaos Ipiotis presides over monthly meetings. Members represent each operating division.

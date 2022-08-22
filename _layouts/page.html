@@ -6,6 +6,17 @@ layout: base
 This template is for a single page that does not have a date associated with it. For example, an about page.
 {% endcomment %}
 
+<section class = "title-list usa-section title-back title-margin">
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-9">
+        <h1 class="text-white font-sans-lg margin-bottom-0 margin-top-0 text-bold"> {{ page.title }} </h1>
+        <span class="text-color-yellow font-serif-xl margin-bottom-0 text-bold"> {{ page.subtitle }} </span>
+      </div>
+    </div>
+  </div>
+</section>
+
 <div id="main-content" class="usa-layout-docs usa-section">
   <div class="grid-container">
     <div class="grid-row grid-gap">

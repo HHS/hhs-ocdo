@@ -1,5 +1,6 @@
 ---
 title: Our Team
+subtitle: Who we are
 layout: page
 sidenav: true
 datafile: bios

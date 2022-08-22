@@ -64,7 +64,40 @@ p.goals {
 
 // Website title customizations
 .ocdo-logo {
-    width: 200%;
+  width: 100%;
+}
+
+.combine{ 
+  display:flex; 
+  align-items: center;
+  width: 150%; 
+} 
+
+//Title banner
+
+.text-color-yellow {
+  color: #d49f36
+}
+
+.title-margin {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+
+.title-back {
+  background-color: #25294d;
+}
+
+.title-section {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.title-list {
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+  font-size: 1.3rem;
+  line-height: 1.52;
+  color: #FFFFFF;
 }
 
 // Highlights background

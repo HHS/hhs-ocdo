@@ -89,6 +89,10 @@ primary_navigation:
         url: /operations/governance/
   - name: About
     children: 
+      - name: About OCDO
+        url: /about/about-ocdo/
+      - name: Collaborations
+        url: /about/collaborations/
       - name: Our Team
         url: /about/our-team/
 
