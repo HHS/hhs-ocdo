@@ -16,3 +16,4 @@ HHS OCDO curated resources into an Innovation Toolkit, which aims to be a living
 
 ## HHS Innovation Toolkit
 
+{% include collection_thumb.html %}
