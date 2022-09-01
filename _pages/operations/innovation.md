@@ -17,3 +17,7 @@ HHS OCDO curated resources into an Innovation Toolkit, which aims to be a living
 ## HHS Innovation Toolkit
 
 {% include collection_thumb.html %}
+
+> This toolkit is a living repository. If you would like to suggest additional department-wide tools for OCDO to include, please email [cdo@hhs.gov](mailto:cdo@hhs.gov). 
+
+For additional information, including technical assistance on open innovation for HHS divisions, please visit HHS [InnovationX](https://www.hhs.gov/ash/osm/innovationx/index.html) in the Office of the Assistant Secretary for Health (OASH) or email [innovation@hhs.gov](mailto:innovation@hhs.gov). OASH InnovationX leads open innovation for the department. This includes technology sprints, crowdsourcing, citizen science, challenges, prizes, and innovative public-private partnerships such as LymeX, KidneyX, and PandemicX, as well as other open innovation methodologies fueled by HHS open data.
