@@ -8,19 +8,19 @@
   url: https://digital.gov/resources/customer-experience-toolkit/
   description: The Customer Experience Toolkit is an interagency toolkit intended to help government agencies improve how we deliver services and information to the public.
   publisher: General Services Administration (GSA)
-  thumb_url: cxtoolkit.jpg
+  thumb_url: innovation_thumbs/cxtoolkit.jpg
 
 - name: Digital.gov
   url: https://digital.gov/
   description: Digital.gov provides interagency guidance on building better digital services in federal government.
   publisher: General Services Administration (GSA)
-  thumb_url: digitalgov.jpg
+  thumb_url: innovation_thumbs/digitalgov.jpg
 
 - name: Federal Crowdsourcing and Citizen Science Toolkit
   url: https://www.citizenscience.gov/toolkit/
   description: The Federal Crowdsourcing and Citizen Science Toolkit provides interagency resources, case studies, and five steps for planning, designing, and carrying out a crowdsourcing or citizen science project in federal government.
   publisher: General Services Administration (GSA)
-  thumb_url: citizenscience.jpg
+  thumb_url: innovation_thumbs/citizenscience.jpg
 
 - name: FedRAMP Marketplace
   url: https://marketplace.fedramp.gov/#!/products
@@ -29,28 +29,28 @@
     - [HHS LymeX Innovation Ecosystem](https://lymex.crowdicity.com/) (Crowdicity Platform)
     - [NIH All of Us Research Priorities](https://allofusresearchpriorities.ideascale.com/) (IdeaScale Platform)
   publisher: General Services Administration (GSA)
-  thumb_url: fedramp.jpg
+  thumb_url: innovation_thumbs/fedramp.jpg
   
 - name: HHS Health+™
   url: https://www.hhs.gov/ash/osm/innovationx/human-centered-design/index.html
   description: HHS Health+™ (pronounced “health plus”) is a human-centered design and research model sponsored by HHS to co-create solutions with—not for—people impacted by the most pressing healthcare challenges. It positions people who are the experts of their own lived experiences as active participants in the process.
   publisher: Department of Health and Human Services (HHS)
-  thumb_url: healthplus.jpg
+  thumb_url: innovation_thumbs/healthplus.jpg
   
 - name: NASA Center of Excellence for Collaborative Innovation
   url: https://www.nasa.gov/offices/COECI/index.html
   description: The NASA Center of Excellence for Collaborative Innovation (CoECI) provides resources built from 10+ years of NASA innovation experience, including the NASA Tournament Lab for facilitated federal contracting with vetted innovation vendors.
   publisher: National Aeronautics and Space Administration (NASA)
-  thumb_url: nasacoeci.jpg
+  thumb_url: innovation_thumbs/nasacoeci.jpg
 
 - name: OASH InnovationX
   url: https://www.hhs.gov/ash/osm/innovationx/index.html
   description: OASH InnovationX provides technical assistance for HHS open innovation and HHS partnerships. 
   publisher: Department of Health & Human Services (HHS)
-  thumb_url: hhs-innovationx.jpg
+  thumb_url: innovation_thumbs/hhs-innovationx.jpg
   
 - name: Technology Sprints TOPx Toolkit
   url: https://opportunity.census.gov/topx-toolkit/introduction/
   description: The Technology Sprints TOPx Toolkit is an interagency playbook to transform open data into digital tools that solve key national challenges at the hearts of an agency mission, developed by The Opportunity Project (TOP) program at the U.S. Census Bureau. 
   publisher: U.S. Census Bureau
-  thumb_url: topxtoolkit.jpg
+  thumb_url: innovation_thumbs/topxtoolkit.jpg
