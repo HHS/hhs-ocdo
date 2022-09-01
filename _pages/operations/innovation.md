@@ -16,7 +16,7 @@ HHS OCDO curated resources into an Innovation Toolkit, which aims to be a living
 
 ## HHS Innovation Toolkit
 
-{% include innovation_toolkit.yml %}
+{% include collection_thumb.html %}
 
 > This toolkit is a living repository. If you would like to suggest additional department-wide tools for OCDO to include, please email [cdo@hhs.gov](mailto:cdo@hhs.gov). 
 
