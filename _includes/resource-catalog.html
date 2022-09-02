@@ -1,0 +1,34 @@
+<!--********Generates policy catalog items. Individual cards live in the in the _policies folder**************-->
+
+<div class="usa-media-block tablet:grid-col-9">
+  <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
+  <div class="policies">
+    {% for item in site.data[page.thumbdatafile] %}
+      <div class="tablet:grid-col-3 grid-spacing policy {{ item.tags }}">
+
+      {% if item.tags contains 'Public Health' %}
+      <div class="shadow-1 public-health-border ">
+      {% endif %}
+      {% if item.tags contains 'Research' %}
+      <div class="shadow-1 research-border ">
+      {% endif %}
+
+        <div class="text-container">
+
+          {% if item.tags contains 'Public Health' %}
+         <span class="card-tag">Public Health</span>
+          {% endif %}
+          {% if item.tags contains 'Research' %}
+         <span class="card-tag">Research</span>
+         {% endif %}
+
+          <!--for 508 accessibility-->
+            <p class="title-resources"><a title="public health or research title" class="no-style" href="{{ site.baseurl }}/{{ item.url}}">{{ item.publisher }}</a></p>
+            <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
+          </div>
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>
+</div>
