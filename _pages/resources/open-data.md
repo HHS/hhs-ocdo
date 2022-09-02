@@ -19,3 +19,13 @@ HHS publishes datasets as part of its Open Data program. The primary resource fo
 ## Data Repositories and Search Tools
 
 {% include collection.html %}
+
+<section class="usa-graphic-list margin-bottom-4">
+  <div class="grid-container">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+
+      {% include resource-catalog.html %}
+
+    </div>
+  </div>
+</section>
