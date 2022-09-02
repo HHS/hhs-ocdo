@@ -1,34 +1,92 @@
-<!--********Generates policy catalog items. Individual cards live in the in the _policies folder**************-->
+<!--********Generates resource catalog items. Individual cards live in the in the _presources folder**************-->
 
 <div class="usa-media-block tablet:grid-col-9">
-  <p class="filter-count card-tag margin-top-0 text-gray-50"></p>
-  <div class="policies">
-    {% for item in site.data[page.thumbdatafile] %}
-      <div class="tablet:grid-col-3 grid-spacing policy {{ item.tags }}">
+    <p class="filter-count card-tag margin-top-0 text-gray-50 text-thin"></p>
+    <div class="policies" >
+                    {% for item in site.data[page.thumbdatafile] %}
+                    <div class="tablet:grid-col-3 grid-spacing policy {{ item.tags }}">
 
-      {% if item.tags contains 'Public Health' %}
-      <div class="shadow-1 public-health-border ">
-      {% endif %}
-      {% if item.tags contains 'Research' %}
-      <div class="shadow-1 research-border ">
-      {% endif %}
+                        {% if item.tags contains 'policy' %}
+                        <div class="shadow-1 policy-border ">
+                            {% endif %}
+                            {% if item.tags contains 'priority' %}
+                            <div class="shadow-1 priority-border ">
+                                {% endif %}
 
-        <div class="text-container">
+                                <div class="text-container">
 
-          {% if item.tags contains 'Public Health' %}
-         <span class="card-tag">Public Health</span>
-          {% endif %}
-          {% if item.tags contains 'Research' %}
-         <span class="card-tag">Research</span>
-         {% endif %}
+                                    {% if item.tags contains 'policy' %}
+                                    <span class="card-tag">Policy</span>
+                                    {% endif %}
+                                    {% if item.tags contains 'priority' %}
+                                    <span class="card-tag">Priority</span>
+                                    {% endif %}
 
-          <!--for 508 accessibility-->
-            <p class="title-resources"><a title="public health or research title" class="no-style" href="{{ site.baseurl }}/{{ item.url}}">{{ item.publisher }}</a></p>
-            <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
-          </div>
-      </div>
+                                    <!--for 508 accessibility-->
+                                    {% if item.url %}
+                                    <p class="title-resources"><a title="policy or priority title" class="no-style" href="{{ site.baseurl }}{{ item.url }}">{{ policies.subtitle }}</a></p>
+                                    {% endif %}
+                                    {% if item.url %}
+                                    <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ item.url }}">{{ policies.subtitle }}</a></p>
+                                    {% endif %}
+                                    <!--<p class="text-light font-sans-3xs">Implemented on {{ policies.date | date: "%b %d, %y" }}</p>-->
+                                </div>
+                            </div>
+                        </div>
+
+                        {% endfor %}
+                        {% for item in site.data[page.thumbdatafile] %}
+                        <div class="tablet:grid-col-3 grid-spacing policy {{ item.provider }}" >
+
+                            <!--sets border logic statements for resources-->
+                            {% if item.provider contains 'Centers for Disease Control and Prevention (CDC)' %}
+                            <div class="shadow-1 whitepaper-border ">
+                                {% endif %}
+                            {% if item.provider contains 'National Intitutes of Health (NIH)' %}
+                            <div class="shadow-1 report-border ">
+                                {% endif %}
+                                {% if item.provider contains 'Department of Health and Human Services (HHS)' %}
+                                <div class="shadow-1 guidance-border">
+                                    {% endif %}
+                                    {% if item.provider contains 'Food and Drug Administration (FDA)' %}
+                                    <div class="shadow-1 presentation-border ">
+                                        {% endif %}
+                                        {% if item.provider contains 'Centers for Medicare & Medicaid Services (CMS)' %}
+                                        <div class="shadow-1 website-border ">
+                                            {% endif %}
+
+                                            <div class="text-container">
+                                                 {% if item.provider contains 'Centers for Disease Control and Prevention (CDC)' %}
+                                                <span class="card-tag">white Paper</span>
+                                                {% endif %}
+                                                {% if item.provider contains 'National Intitutes of Health (NIH)' %}
+                                                <span class="card-tag">Report</span>
+                                                {% endif %}
+                                                {% if item.provider contains 'Department of Health and Human Services (HHS)' %}
+                                                <span class="card-tag">Guidance</span>
+                                                {% endif %}
+                                                {% if item.provider contains 'Food and Drug Administration (FDA)' %}
+                                                <span class="card-tag">Presentation</span>
+                                                {% endif %}
+                                                {% if item.provider contains 'Centers for Medicare & Medicaid Services (CMS)' %}
+                                                <span class="card-tag">Website</span>
+                                                {% endif %}
+
+                                                {% if item.url %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="https://{{ item.url }}">{{ item.name }}</a></p>
+                                                {% endif %}
+                                                {% if item.url %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a></p>
+                                                {% endif %}
+                                                {% if item.url %}
+                                                <p class="title-resources"><a class="text-ink text-no-underline" href="{{ site.baseurl }}/{{ item.url }}">{{ item.name }}</a></p>
+                                                {% endif %}
+                                                <!--for 508 accessibility-->
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    {% endfor %}
+
     </div>
-
-    {% endfor %}
-  </div>
 </div>
