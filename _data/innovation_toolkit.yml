@@ -26,8 +26,10 @@
   url: https://marketplace.fedramp.gov/#!/products
   description: |
     FedRAMP Marketplace is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. Tools used at HHS with either full or conditional authorization to operate (ATO) include IdeaScale and Crowdicity for ideas  management, crowdsourcing, and innovation communities. For example:
-    - [HHS LymeX Innovation Ecosystem](https://lymex.crowdicity.com/) (Crowdicity Platform)
-    - [NIH All of Us Research Priorities](https://allofusresearchpriorities.ideascale.com/) (IdeaScale Platform)
+    <ul>
+    <li><a href = "https://lymex.crowdicity.com/">HHS LymeX Innovation Ecosystem (Crowdicity Platform)</a></li>
+    <li><a href = "https://allofusresearchpriorities.ideascale.com/">NIH All of Us Research Priorities (IdeaScale Platform)</a></li>
+    </ul>
   publisher: General Services Administration (GSA)
   thumb_url: innovation_thumbs/fedramp.jpg
   
